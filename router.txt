@@ -1,0 +1,1032 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
++Not because he did not want to                      +
++It was because he wanted                            +
++Are, because we want                                +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                    +
++           Signature;                               +
++                                                    +
++80 million Iranians love their country              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Saudi Arabia Router List ==>> Public And Down       ++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+51.235.216.242:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:A4:38==>Fayez_Home==>WPA/WPA2==>Aziz32266==>12345670==>192.168.100.1==>255.255.255.0==>
+62.149.84.130:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:BB:98==>Mosad==>WPA/WPA2==>stc@home1234==>12345670==>192.168.1.1==>255.255.255.0==>
+80.240.-.58:80==>user:passwd=>admin:admin==>DrayTek Vigor2820n==>00:50:7F:A3:8C:F0==>DrayTek==>WPA==><not implemented>==>192.168.1.1==>255.255.255.0==>---==>---==>
+87.101.142.35:80==>user:passwd=>admin:admin==>Inca Networks Administration==>
+87.-.137.129:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:73:04==>PARAGH-VIP==>WPA/WPA2==>10-04050==>12345670==>192.168.100.1==>255.255.255.0==>
+87.-.149.112:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:E5:B4==>RAIDA_AL_KHAIR2==>WPA/WPA2==>0555598557==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.26.102:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:5A:E4==>Lesmile==>WPA/WPA2==>lesmile15==>77708397==>192.168.100.1==>255.255.255.0==>
+176.44.29.111:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8A:9E:89==>Osama==>WPA/WPA2==>0502996959==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.30.51:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:17:69:C6==>khaled==>WPA/WPA2==>0555956654==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.31.16:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:8D:D8==>B2==>WPA/WPA2==>scott2000==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.31.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1D:-:FC==>WirelessNet==>WPA/WPA2==>05009-111==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.32.73:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1D:0F:-==>Fahad==>WPA==>0505489003==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.42.92:80==>user:passwd=>admin:<empty>==>MikroTik RouterOS v6.35.1==>192.168.5.2==>255.255.255.0==>192.168.5.2==>255.255.255.0==>192.168.2.1==>8.8.8.8 208.67.222.222==>
+176.44.107.74:8080==>Timed out==>DD-WRT (name: DDWRT-OpenVPN, model: Linksys E1700 / N300)==>[X]==>B4:75:0E:82:83:E5==>dd-wrt==>192.168.100.1==>192.168.1.250==>
+176.44.-.253:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:5E:48==>T2==>WPA/WPA2==>04-30456sa==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.131.18:80==>user:passwd=>admin:123456==>DVR==>
+176.44.219.170:80==>user:passwd=>admin:123321==>Hikvision App-webs DS-2CD2112-I==><not implemented>==><bridge>==><bridge>==>192.168.1.202==>255.255.255.0==>192.168.1.1==>8.8.8.8 192.168.1.1==>
+176.44.237.188:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AD:6C:8C==>AHMAD==>WPA/WPA2==>ah0506002119==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.246.83:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:-:ED:AC==>ABUSADEN-2.5==>WPA/WPA2==>mmmmmmmm==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.246.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:18:DA:7C==>YASSER==>WPA/WPA2==>89008900==>32056662==>192.168.100.1==>255.255.255.0==>
+176.45.0.199:8080==>user:passwd=>admin:admin==>Unknown (401 Unauthorized)==>
+176.45.16.220:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:49:20==>AHMAD==>WPA/WPA2==>34143414==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.11.199:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:E3:D8==>HUAWEI-2.4G-etvF==>WPA/WPA2==>055289-44==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.12.-:80==>user:passwd=>admin:admin==>DVR==>
+176.45.36.195:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:CC:A8==>HUAWEI-2.4G-2wAd==>WPA/WPA2==>04000400==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.41.31:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:18:D5:A4==>abdul-malik==>WPA==>0505143491==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.42.10:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:1D:5C==>Ali==>WPA/WPA2==>0505145802==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.77.1-:80==>user:passwd=>admin:1234==>DVR==>
+176.45.92.249:8080==>user:passwd=>admin:qazwsx==>SABnzbd==>
+176.45.115.119:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies ==>Snake==>WPA/WPA2==>0533312101==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.115.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:2F:D8==>Abdullah==>WPA/WPA2==>0502205221==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.136.142:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:2B:74==>khaled==>WPA/WPA2==>0505214538==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.137.119:80==>user:passwd=>admin:84710295==>ZyNOS ADSL (2.9.8.1_1.0 Edimax ADSL Router)==>00:0E:2E:47:8D:7A==>Default==>None==><empty>==>192.168.1.1==>255.255.255.0==>176.45.137.119==>255.255.255.255==>84.235.68.246==>185.35.67.253==>
+176.45.138.103:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:43:FD==>Fidak2==>WPA/WPA2==>mesho123==>12345670==>192.168.1.1==>255.255.255.0==>
+176.45.187.249:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:75:D7:4C==>HOOB==>WPA/WPA2==>11471123==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.188.30:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A4:36:BF==>dana==>WPA/WPA2==>Aa230864==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.227.137:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:08:B0==>ALBAIT==>WPA/WPA2==>rakan9591==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.239.100:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:64:3A:88==>Ibrahim5G==>WPA/WPA2==>0555151717==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.239.97:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:B0:84==>woll3 alqissim==>WPA/WPA2==>1122336677==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.245.214:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DA:A6:E4==>WIFI==>WPA/WPA2==>088888888==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.252.134:80==>user:passwd=>admin:admin==>P6210 2MP Pan/Tilt Camera==>
+185.20.73.205:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:4B:03==>Amjaed5==>WPA2==>4069000498==>12345670==>192.168.100.1==>255.255.255.0==>185.20.73.205==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+185.20.74.25:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:B9:EE:B2==>Mediagates==>WPA/WPA2==>Tbbfjotld==>12345670==>192.168.100.1==>255.255.255.0==>
+185.20.74.41:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:47:9D==>Orbit==>WPA2==>yousa6666==>12345670==>192.168.100.1==>255.255.255.0==>185.20.74.41==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+185.20.74.91:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:47:61==>Afaqwireless==>WPA/WPA2==>2468024680==>12345670==>192.168.100.1==>255.255.255.0==>
+185.20.75.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:47:2F==>SAMSUNG==>WPA2==>fa554471008==>12345670==>192.168.100.1==>255.255.255.0==>185.20.75.-==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+188.48.14.241:80==>user:passwd=>Belkin F7D4402 v1==>-:44:52:DD:3D:31==>belkin.8d62==>WPA==>192.168.2.1==>255.255.255.0==>188.48.14.241==>255.255.255.255==>84.235.126.4==>84.235.57.230 84.235.6.55==>
+188.48.19.196:80==>user:passwd=>admin:admin==>Micro DSL (TP-LINK)==>
+188.48.34.144:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>[X]==>4C:B1:6C:F0:C9:20==>Beutfulsmile1==>WPA/WPA2==>7170689100==>71067292==>192.168.100.1==>255.255.255.0==>
+188.48.49.80:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1D:52:0C==>ELECTRIC==>WPA2==>-00-00@==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.49.224:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:90:28==>Shamroukh==>WPA/WPA2==>19701971==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.51.5:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8A:9C:4F==>WirelessNet==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.53.150:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:AF:C3==>Fahad==>WPA/WPA2==>Fmasrf23==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.53.165:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:19:07:2C==>AB==>WPA==>97643111==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.53.146:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:E1:81==>WirelessNet==>WPA/WPA2==>0565662499==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.54.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:84:FF:17==>Aseel==>WPA/WPA2==>05506500-A==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.103.10:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:10:B1:37==>fahad==>WPA/WPA2==>0550522555==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.103.59:80==>user:passwd=>admin:123456==>DVR==>
+188.48.130.118:8080==>user:passwd=>support:support==>Micro DSL (DSL-2750U 9-281TAVNG | B038 K8B 0K ME-00-2342.V03)==>[X]==>AC:F1:DF:F1:D9:39==>DLink==>None==><empty>==>122-180==>132.139.133.2==>255.255.255.0==>188.48.130.118==>95.130.13.153 8.8.8.8==>
+188.48.-.185:80==>user:passwd=>admin:admin123==>DNR-202L==>
+188.48.165.134:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:B0:04:E4==>FAIZ==>WPA/WPA2==>0556654443==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.180.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:49:04:10==>Amer==>WPA/WPA2==>A123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.184.162:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:12:C0==>ELKHOWAILED==>WPA/WPA2==>admin2015==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.186.250:80==>user:passwd=>admin:123456==>DVR==>
+188.48.226.241:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:D8:B0==>HUAWEI-2.4G-7sYQ==>WPA/WPA2==>casper123==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.230.238:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:B0:74==>nawaf1==>WPA/WPA2==>23142500==>12345670==>192.168.100.1==>255.255.255.0==>
+188.48.241.169:8080==>user:passwd=>admin:<empty>==>DCS-6010L==>
+188.48.245.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:AA:CC==>HUAWEI-2.4G-IR2F==>WPA/WPA2==>bwruGcdd==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.23.174:80==>user:passwd=>admin:123456==>DVR==>
+188.49.37.186:80==>user:passwd=>admin:123456==>DVR==>
+188.49.59.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:47:60==>STC_2.4G==>WPA/WPA2==>620020042==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.83.226:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:6E:1C==>Nasser==>WPA==>0568966198==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.129.242:80==>user:passwd=>admin:<empty>==>DPR-1020==>
+188.49.144.108:80==>user:passwd=>admin:<empty>==>DVR==>
+188.49.160.233:80==>user:passwd=>admin:admin==>CHIYU==>
+188.49.167.1:80==>user:passwd=>admin:admin==>TL-PS-U==>
+188.49.168.43:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:64:B4:10==>hassan==>WPA/WPA2==>418008070==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.168.161:80==>user:passwd=>admin:<empty>==>Netwave IP Camera==>00:00:4C:1F:CC:87==>Fax==>WPA2==>12344321==><bridge>==><bridge>==>192.168.100.111==>255.255.255.0==>192.168.100.1==>192.168.100.1==>
+188.49.188.147:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>28:31:52:3A:91:DC==>derma==>WPA/WPA2==>7170689100==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.240.27:80==>user:passwd=>D-Link DNR-322L==>-==><no wireless>==>-==>-==>192.168.0.191==>
+188.50.10.202:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:D1:D8==>Hassan_Alqarni==>WPA/WPA2==>055-14441==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.44.165:80==>user:passwd=>admin:<empty>==>DPR-1020==>
+188.50.123.235:80==>user:passwd=>admin:admin==>WAP300N==>
+188.50.133.73:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8D:5C:B9==>Network==>WPA==>0-23208111==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.143.19:80==>user:passwd=>admin:<empty>==>Netwave IP Camera==>00:00:68:15:90:BF==>KSA==>WPA2==>pk123456123==><bridge>==><bridge>==>0.0.0.0==>0.0.0.0==>0.0.0.0==>0.0.0.0==>
+188.50.160.12:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:92:A8==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.10.1==>255.255.255.0==>188.50.160.12==>84.235.68.244==>84.235.57.230==>
+188.50.169.96:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:D6:F4==>STC2016==>WPA/WPA2==>mm220022==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.171.100:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:A2:3E:01:21:38==>Alhenti==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.180.1-:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2132-I==><not implemented>==><bridge>==><bridge>==>192.168.1.3==>255.255.255.0==>192.168.1.1==>8.8.8.8 0.0.0.0==>
+188.50.218.152:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:A5:F4==>JS==>WPA/WPA2==>-21-21==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.239.72:80==>user:passwd=>admin:123456==>DVR==>
+188.50.253.177:80==>user:passwd=>admin:admin==>CHIYU==>
+188.51.32.176:80==>user:passwd=>admin:123456==>DVR==>
+188.51.40.190:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:90:74:CA==>omar==>WPA2==>aaa100200==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.58.56:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:B7:4E==>BB:5409F5F3==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.58.102:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:07:E4==>ITOUCH33==>WPA==>itouch99==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.80.22:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:64:35:F4==>HUAWEI ==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.81.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:8F:92==>MySTC==>WPA/WPA2==>31183118==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.96.245:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>28:31:52:3A:56:04==>Lolo==>WPA2==>01-801531==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.105.40:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:A4:C0==>HSRZMN==>WPA/WPA2==>jadra2006==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.105.161:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>08:19:A6:B5:C2:C0==>WirelessNet==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.108.126:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DE:5B:2C==>special==>WPA/WPA2==>0554280000==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.118.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:CD:BC==>HUAWEI-2.4G-ucFX==>WPA/WPA2==>6-t3d7B==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.121.27:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>7C:A2:3E:01:4A:98==>NET1==>WPA/WPA2==>050-88333==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.133.80:8080==>user:passwd=>admin:123456==>WEB Remote Viewer==>
+188.51.162.17:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:C5:D4==>AL-HAJB==>WPA/WPA2==>0-612222==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.168.16:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:FB:E0==>YAD_FURNITURE==>WPA/WPA2==>09091972090909==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.182.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:EA:E4==>Abu-Mashal==>WPA/WPA2==>Nice66-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.225.184:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:5D:7C==>tte==>WPA/WPA2==>tt100874==>48358644==>192.168.100.1==>255.255.255.0==>
+188.51.226.137:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:55:FC:AE==>Saad==>WPA/WPA2==>0534744276==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.228.21:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2012-I==><not implemented>==><bridge>==><bridge>==>192.168.1.-==>255.255.255.0==>192.168.1.1==>8.8.8.8 0.0.0.0==>
+188.51.239.44:80==>user:passwd=>admin:<empty>==>Netwave IP Camera==>[X]==><not accessible>==>None==><empty>==><bridge>==><bridge>==>192.168.0.18==>255.255.255.0==>192.168.0.254==>192.168.0.254==>
+188.52.31.159:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:10:88:15==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.34.40:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:70:5C==>azoza==>WPA/WPA2==>054--085==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.65.191:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DF:80:1A==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.111.244:80==>user:passwd=>admin:admin==>RE4000W==>
+188.52.122.87:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:54:E2:90==>Alz 2.4G==>WPA/WPA2==>13131313==>12345670==>192.168.1.1==>255.255.255.0==>
+188.52.123.31:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:17:97:AB==>SabetNet==>WPA/WPA2==>-7-900==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.137.175:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:A0:70==>FDGC==>WPA/WPA2==><not implemented>==>192.168.1.254==>255.255.255.0==>188.52.137.175==>84.235.68.244==>84.235.57.230==>
+188.52.139.51:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:D5:C0==>HUAWEI-2.4G-YVqQ==>WPA/WPA2==>DbuhkkHa==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.147.206:80==>user:passwd=>admin:admin==>index.html==>
+188.52.160.10:80==>user:passwd=>admin:admin==>ZyNOS ADSL (TD-W8901G)==>74:EA:3A:AD:76:4B==>Barboud_Main==>WPA2==>bbdhemo90==>192.168.1.1==>255.255.255.0==>188.52.160.10==>255.255.255.255==>188.52.160.1==>84.235.57.230==>
+188.52.165.132:80==>user:passwd=>admin:<empty>==>DPR-1020==>
+188.52.170.253:80==>user:passwd=>admin:0551080605==>Boa ADSL (Edimax ADSL Router)==>80:1F:02:4D:91:40==>Edimax==>WPA==>0551080605==>192.168.2.1==>255.255.255.0==>188.52.170.253==>255.255.255.255==>188.52.160.1==>84.235.57.230==>
+188.52.182.160:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:52:40==>fade1==>WPA/WPA2==>0505148876==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.188.242:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E5:26:83==>AbuWaleed1==>WPA/WPA2==>12345612==>12345670==>192.168.100.1==>255.255.255.0==>
+188.52.220.8:80==>user:passwd=>root:pass==>Merit LILIN Ent. Co., Ltd,==>
+188.53.62.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:88:32:F0==>WirelessNet==>WPA/WPA2==>0505164019==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.67.10:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:88:18==>MOPS==>WPA2==><not implemented>==>192.168.-.1==>255.255.255.0==>188.53.67.10==>84.235.126.9==>84.235.57.230==>
+188.53.71.162:80==>user:passwd=>admin:<empty>==>DPR-1020==>
+188.53.95.107:80==>user:passwd=>admin:<empty>==>DPR-1020==>
+188.53.176.239:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>08:19:A6:B3:3D:C8==>MANSOUR==>WPA2==>61-61-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.177.23:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:70:E4==>Home==>WPA/WPA2==>45629611==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.1-.26:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:AC:44==>Ameria pipes==>WPA/WPA2==>711-40222==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.1-.155:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DA:9D:A8==>stc 2016==>WPA/WPA2==>ff1397ff==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.1-.170:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:92:6C==>Amri==>WPA==>2881922m==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.199.150:80==>user:passwd=>admin:<empty>==>.==>
+188.53.212.186:80==>user:passwd=>admin:52460318==>ZyNOS ADSL (TD-W8901G)==>-:0C:6D:A3:1D:38==>JA ==>WPA2==>jadejade9==>192.168.1.1==>255.255.255.0==>188.53.212.186==>255.255.255.255==>188.53.208.1==>95.130.13.153==>
+188.53.214.56:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2112-I==><not implemented>==><bridge>==><bridge>==>192.168.1.150==>255.255.255.0==>192.168.1.1==>192.168.1.1 0.0.0.0==>
+188.53.222.183:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:CE:44==>saleem==>WPA/WPA2==>10-53058==>12345670==>192.168.100.1==>255.255.255.0==>
+188.53.231.76:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:4B:BA==>WirelessNet==>WPA==>apc01065==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.2.46:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:62:00==>3bdul3ziz==>WPA/WPA2==>0554441571==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.3.134:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:A8:12==>YASSER==>WPA/WPA2==>05325225477==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.4.215:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:18:F5:2A==>Abanmi==>WPA/WPA2==>mntmnt1234==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.8.2:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7F:53:3D==>Sal==>WPA2==>0569700959==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.96.188:80==>user:passwd=>admin:admin==>PLW400==>
+188.54.124.73:80==>user:passwd=>admin:admin==>WAP300N==>
+188.54.128.187:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2132-I==><not implemented>==><bridge>==><bridge>==>192.168.1.-==>255.255.255.0==>192.168.1.1==>8.8.8.8 0.0.0.0==>
+188.54.-.226:80==>user:passwd=>admin:admin==>TP-LINK TL-WA901ND (access denied)==>TP-LINK_AP_A17EDD==>WPA/WPA2==>82098209==>192.168.1.3==>255.255.255.0==>
+188.54.151.1-:80==>user:passwd=>admin:admin==>index.html==>
+188.54.157.-:8080==>user:passwd=>admin:123456==>WEB Remote Viewer==>
+188.54.211.182:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:0A:BB==>fheed==>WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.223.224:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:7E:BE==>majid==>WPA/WPA2==>0508554658==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.232.250:8080==>user:passwd=>admin:123456==>D-Link DCS--0L==>58:98:35:EA:38:C5==>Abo&nbsp;Meshary==>WPA/WPA2==>0569212662==><bridge>==><bridge>==>192.168.1.72==>255.255.255.0==>192.168.1.1==>192.168.1.1 0.0.0.0==>
+188.54.235.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DE:5A:B4==>SAAD==>WPA/WPA2==>19191919==>12345670==>192.168.100.1==>255.255.255.0==>
+188.54.242.98:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:53:6C==>ALHAYAT==>WPA/WPA2==>alhayat1==>12345670==>192.168.1.254==>255.255.255.0==>
+188.54.244.50:80==>user:passwd=>HP LaserJet 200 Color MFP M276nw==><bridge>==><bridge>==>192.168.1.35==>255.255.255.0==>192.168.1.1==>
+188.54.244.50:8080==>user:passwd=>HP LaserJet 200 Color MFP M276nw==><bridge>==><bridge>==>192.168.1.35==>255.255.255.0==>192.168.1.1==>
+188.54.255.34:80==>user:passwd=>admin:ak@dm1n==>WebCM Firmware (D-Link DSL-2640T | 3.6.0B)==>[X]==>00:1C:F0:E3:E7:76==>a==>WPA==>akserver.com==>192.168.1.1==>255.255.255.0==>188.54.255.34==>255.255.255.255==>84.235.68.244==>84.235.57.230==>
+188.55.14.77:8080==>user:passwd=>admin:123456==>WEB Remote Viewer==>
+188.55.22.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8A:C6:9E==>abdulkareem==>WPA2==>abdulrhmn33==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.114.1:80==>user:passwd=>admin:admin==>RE4100W==>
+188.55.143.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>[X]==>FC:E3:3C:ED:1C:38==>DX2==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.165.223:80==>user:passwd=>admin:admin==>ZyNOS ADSL (TD-W8901G)==>54:E6:FC:F0:CC:E5==>TP-LINK_F0CCE5==>WPA2==>N1o2R3h4r5==>192.168.1.1==>255.255.255.0==>188.55.165.223==>255.255.255.255==>84.235.68.247==>84.235.57.230==>
+188.55.192.75:80==>user:passwd=>admin:123456==>D-Link DCS--2L==>58:98:35:6A:7A:6F==>Future&nbsp;Phone==>WPA/WPA2==>22992299==><bridge>==><bridge>==>192.168.1.64==>255.255.255.0==>192.168.1.1==>192.168.1.1 0.0.0.0==>
+188.55.192.111:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:E8:18==>Malak==>WPA/WPA2==>0555135058==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.215.80:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:E9:F4==>seet_el7baib==>WPA/WPA2==>THaxet6AqAmeDud8.==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.222.237:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:64:3F:A4==>AS11==>WPA/WPA2==>00137-7==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.240.187:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:60:68==>STC1==>WPA/WPA2==>1004170096==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.243.251:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:F8:04==>SALEH2.4G==>WPA/WPA2==>1012007652==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.255.170:80==>user:passwd=>admin:admin==>TP-LINK TL-WA901ND (access denied)==>TP-LINK_AP_FC8AD5==>WPA/WPA2==>0560844466==>192.168.1.208==>255.255.255.0==>
+94.96.131.210:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:A8:B4==>Muhammad==>WPA/WPA2==>1231231231==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.137.237:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:12:BC==>AmericanBed==>WPA/WPA2==>0552-2474mmm==>12345670==>192.168.1.1==>255.255.255.0==>
+94.96.189.58:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:6C:-==>STC_WiFi_8C33==>WPA/WPA2==>2008195352==>12345670==>10.0.10.1==>255.255.255.0==>
+94.97.102.13:80==>user:passwd=>support:support==>Micro DSL (NB604N | NetComm NB604N)==>00:60:64:B8:8B:-==>DAMAD PRIVATE==>WPA/WPA2==>DAMAD@16666==>12846818==>195.200.20.1==>255.255.255.0==>
+94.98.226.136:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:80:14==>Meshal_Network==>WPA/WPA2==>Meshal999==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.228.252:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:10:F4==>A==>WPA/WPA2==>10001000==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.34.91:80==>user:passwd=>? admin:aser55-00900==>micro_httpd (D-Link ADSL Router)==>
+94.99.40.58:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>[X]==>[X]==>EC:4D:47:3D:88:00==>MODEM1==>WPA/WPA2==>8MAjJ48q==>12345670==>192.168.1.1==>255.255.255.0==>
+94.99.131.207:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:21:60==>HUAWEI-2.4G-xCL6==>WPA/WPA2==>pQ34cjTN==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.133.73:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:C1:B8==>bot 2016==>WPA/WPA2==>smms123%==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.156.103:80==>user:passwd=>support:support==>Micro DSL (" + FatoryInfoArray[1] + " | 3.41a4STC A2pB025c6)==>00:24:7E:20:5B:37==>Geberit Mobily==>WPA==>khurram1964==>192.168.1.1==>255.255.255.0==>94.99.-.103==>84.235.6.17==>95.130.13.153 8.8.8.8==>
+94.99.207.231:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:53:E0==>STC FIBER.==>WPA==>Qq123321123321==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.225.148:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:99:58==>stopjeans==>WPA2==><not implemented>==>190.160.10.162==>255.255.255.0==>---==>---==>192.168.100.1==>
+94.99.232.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:8E:D8==>Yousef==>WPA/WPA2==>yousef344==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.22.13:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:29:DC==>wahab==>WPA/WPA2==>arar2735==>52-4889==>192.168.100.1==>255.255.255.0==>
+95.218.30.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:3E:5C==>SAHAL==>WPA/WPA2==>0596066000==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.58.60:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:3A:0C==>STC==>WPA/WPA2==>ABOMALEK==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.88.145:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:8F:F8==>mustanda==>WPA2==><not implemented>==>192.168.1.1==>255.255.255.0==>95.218.88.145==>95.218.0.1==>84.235.6.55==>
+128.234.55.14:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:09:70==>alsalhani==>WPA2==>77794.99==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.122.21:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:0B:D0==>FTTH==>WPA/WPA2==>050860321==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.158.7:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:69:4B:F8==>STC==>WPA2==>Kdhma1154==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.228.80:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:41:38==>HUAWEI-2.4G-xKSA==>WPA/WPA2==>phnBUU2c==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.32.16:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:65:98==>medooo==>WPA/WPA2==>05541887-==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.161.27:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:2E:48==>PRAGH2==>WPA/WPA2==>00002222==>12345670==>192.168.100.1==>255.255.255.0==>
+159.0.0.166:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:-:80==>MGS==>WPA==>toto2200==>12345670==>192.168.100.1==>255.255.255.0==>
+159.0.59.9:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6F:EA:5C==>HUAWEI-2.4G-U4G3==>WPA/WPA2==>ACn69bpG==>12345670==>192.168.100.1==>255.255.255.0==>
+159.0.75.17:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:45:AC==>ICIS_STC_2.4==>WPA/WPA2==>P@ssw0rd01==>12345670==>10.10.10.250==>255.255.255.0==>
+159.0.126.107:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:A2:3E:01:5D:50==>DUL==>WPA/WPA2==>najd14th-==>34000502==>192.168.100.1==>255.255.255.0==>
+159.0.147.196:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:03:F8==>HUAWEI-2.4G-DF2A==>WPA/WPA2==>1122334450==>12345670==>192.168.100.1==>255.255.255.0==>
+159.0.173.87:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:6B:44==>FTTH/1==>WPA/WPA2==>88888888==>12345670==>192.168.100.1==>255.255.255.0==>
+159.0.202.206:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:FE:F4==>Rozina==>WPA/WPA2==>650650650==>12345670==>192.168.100.1==>255.255.255.0==>
+176.44.237.188:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AD:6C:8C==>AHMAD==>WPA/WPA2==>ah0506002119==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.115.119:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies ==>Snake==>WPA/WPA2==>0533312101==>12345670==>192.168.100.1==>255.255.255.0==>
+176.45.227.137:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:08:B0==>ALBAIT==>WPA/WPA2==>rakan9591==>12345670==>192.168.100.1==>255.255.255.0==>
+185.20.75.239:80==>user:passwd=>cisco:cisco==>Seems to be Cisco Device==>
+188.48.180.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:49:04:10==>Amer==>WPA/WPA2==>A123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.59.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:47:60==>STC_2.4G==>WPA/WPA2==>620020042==>12345670==>192.168.100.1==>255.255.255.0==>
+188.49.168.43:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:64:B4:10==>hassan==>WPA/WPA2==>418008070==>12345670==>192.168.100.1==>255.255.255.0==>
+188.50.169.96:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:D6:F4==>STC2016==>WPA/WPA2==>mm220022==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.58.102:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:07:E4==>ITOUCH33==>WPA==>itouch99==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.121.27:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>7C:A2:3E:01:4A:98==>NET1==>WPA/WPA2==>050-88333==>12345670==>192.168.100.1==>255.255.255.0==>
+188.51.162.17:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:C5:D4==>AL-HAJB==>WPA/WPA2==>0-612222==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.143.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>[X]==>FC:E3:3C:ED:1C:38==>DX2==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.215.80:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:E9:F4==>seet_el7baib==>WPA/WPA2==>THaxet6AqAmeDud8.==>12345670==>192.168.100.1==>255.255.255.0==>
+188.55.243.251:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:F8:04==>SALEH2.4G==>WPA/WPA2==>1012007652==>12345670==>192.168.100.1==>255.255.255.0==>
+212.11.176.-:80==>user:passwd=>admin:admin123==>NSE==>
+212.-.182.34:80==>user:passwd=><empty>:cisco==>Seems to be Cisco Device==>
+212.118.104.62:80==>user:passwd=>admin:admin123==>Seems to be Cisco Device==>
+85.182.255.157:80==>0==>user:passwd=>admin:444444==>Zentrale Anmeldung am Trac==>
+85.199.76.9:80==>user:passwd=>admin:Solar-32==>D-Link DIR-600, firmware: 2.11DE==>00:00:00:00:00:00==>dlink==>None==><empty>==>58105887==>192.168.2.1==>255.255.255.0==>85.199.76.9==>255.255.255.255==>10.120.100.1==>212.204.40.250 212.204.-.50==>
+85.199.76.13:80==>user:passwd=>admin:Solar-12==>D-Link DIR-600, firmware: 2.11==>00:00:00:00:00:00==>dlink-storz==>WPA/WPA2==>admin:DLINK_storz1234==>7-58309==>192.168.2.1==>255.255.255.0==>85.199.76.13==>255.255.255.255==>10.120.100.1==>212.204.40.250 212.204.-.50==>
+85.216.9.160:80==>user:passwd=>DD-WRT (name: DD-WRT, model: Linksys E2000)==>C0:C1:C0:CF:E3:05==>Bergziege==>192.168.0.2==>Ausgeschaltet==>
+85.220.139.242:8080==>0==>user:passwd=>DD-WRT (name: DD-WRT, model: Dlink DIR-825)==>[X]==>00:18:E7:8B:F8:73==>dd-wrt==>192.168.12.1==>85.220.139.242==>
+51.235.24.13:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:B7:28==>Like4Card.com==>WPA/WPA2==>1a2b3c4d5e==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.28.202:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:B4:7C==>B==>WPA/WPA2==>0123456-90==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.35.40:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:AC:D8==>Me==>WPA/WPA2==>998877aa==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.49.255:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:77:6D:50==>saqer666==>WPA/WPA2==>569666682==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.55.115:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DE:57:CC==>WWWD==>WPA/WPA2==>AA6767AA==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.72.49:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AF:21:B8==>SnFWireless N==>WPA/WPA2==>solidsnake==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.73.39:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:E0:80==>HUAWEI-2.4G-qsHe==>WPA/WPA2==>00000011==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.131.45:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:61:A8==>CommanderHome==>WPA/WPA2==>0555447752==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.152.4:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:DB:58==>domeplastic==>WPA/WPA2==>handlesr12==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.165.11:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:F2:C4==>STC==>WPA/WPA2==>s1s2s3s4==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.173.44:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:58:00==>HUAWEI-2.4G-Uub8==>WPA/WPA2==>Fahad504445583==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.185.39:80==>Timed out==>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:B8:46:C0==>Afnan==>WPA/WPA2==><not implemented>==>192.168.5.1==>255.255.255.0==>51.235.185.39==>84.235.-.3==>84.235.6.55==>
+51.235.189.187:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B7:1C:30==>HUAWEI-2.4G-RI69==>WPA/WPA2==>alamri5155==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.15:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:EA:54==>HUAWEI-2.4G-bCfq==>WPA/WPA2==>scorpe123456==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.205.113:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CD:09:B4==>40M==>WPA/WPA2==>Emad6666==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.216.242:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:A4:38==>Fayez_Home==>WPA/WPA2==>Aziz32266==>12345670==>192.168.100.1==>255.255.255.0==>
+62.149.84.130:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:BB:98==>Mosad==>WPA/WPA2==>stc@home1234==>12345670==>192.168.1.1==>255.255.255.0==>
+77.30.47.232:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E6:36:5C==>Shahid==>WPA/WPA2==>0556184465==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.133.26:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:CE:44==>klaf==>WPA/WPA2==>0544989976==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.192.9:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:05:4C==>HUAWEI-2.4G-xWUV==>WPA/WPA2==>Xg3M3NUp==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.197.72:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:DC:FC==>HUAWEI-2.4G-H6uf==>WPA/WPA2==>u3fqn2nQ==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.212.41:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:CC:AC==>STC_WiFi_A557==>WPA/WPA2==>EwG57E3y==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.222.255:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:77:64:C0==>ZainSA==>WPA/WPA2==>Zz500700==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.233.91:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:BA:BC==>laelatalkaif2016==>WPA/WPA2==>1234512345==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.233.183:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:D2:CC==>smart1==>WPA/WPA2==>44442222==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.248.135:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:54:68==>FSAT==>WPA/WPA2==>fatma112233==>12345670==>192.168.1.1==>255.255.255.0==>
+77.30.248.161:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:CF:C8==>GTEL Home==>WPA/WPA2==>114961062==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.1.122:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:88:88==>Omar==>WPA2==>omar054054054==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.15.10:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:43:24==>Umbrella1==>WPA/WPA2==>0582226670==>12345670==>-.30.66.1==>255.255.255.0==>
+77.31.53.75:80==>Timed out==>admin:8474==>Micro DSL (9-58VW2 | 3.12L.01.sip.allA2pB023k.d20k rc2)==>00:1E:40:45:25:6C==>Hajrawi_Zbox1==>WPA2==>ahbnyhl96==>192.168.1.1==>255.255.255.0==>77.31.53.75==>84.235.124.9==>46.151.215.- 8.8.8.8==>
+77.31.77.161:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AE:4E:B8==>AzizFiber==>WPA/WPA2==>aaabbbcccf==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.211:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:8D:64==>MUFC==>WPA/WPA2==>0555457577==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.97.254:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:5C:E0==>OMAR==>WPA/WPA2==>0551955544==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.232.8:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:B8:24==>Barrow==>WPA/WPA2==>8328762429==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.234.228:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:35:50==>khaled==>WPA/WPA2==>123456-9==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.247.123:80==>Timed out==>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:6D:00==>Hani==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+77.240.92.222:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2612F-IS==><not implemented>==><bridge>==><bridge>==>192.168.2.66==>255.255.255.0==>192.168.2.1==>213.236.32.2 212.76.84.145==>
+77.240.95.153:80==>user:passwd=>support:support==>Micro DSL (DSL-2730U 9-281TAVNG | B038 K8G 0K-00-4022.V01)==>-:54:2E:7E:E7:1B==>RAE-WL==>WPA/WPA2==>rae12345==>76229909==>192.168.1.1==>255.255.255.0==>77.240.95.153==>95.130.13.153 8.8.8.8==>
+80.240.-.58:80==>user:passwd=>admin:admin==>DrayTek Vigor2820n==>00:50:7F:A3:8C:F0==>DrayTek==>WPA==><not implemented>==>192.168.1.1==>255.255.255.0==>---==>---==>
+51.235.0.254:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:10:0D:61==>hala==>WPA/WPA2==>19670000==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.6.57:80==>user:passwd=>admin:admin==>WAP300N==>
+51.235.6.126:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:AD:3A:8A==>SAAD==>WPA/WPA2==>S0506000046s==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.7.46:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:37:EC==>Abo Hysam==>WPA/WPA2==>0556900056==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.7.144:80==>user:passwd=>admin:1234==>Merit LILIN Ent. Co., Ltd,==>
+51.235.9.148:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:2D:5C==>Alweet==>WPA/WPA2==>0554970701==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.9.160:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:46:70==>HUAWEI-2.4G==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.13.231:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:C0:98==>LEBAN==>WPA/WPA2==>m.059292-25==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.14.195:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:D5:F1==>abufahad==>WPA/WPA2==>05054132-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.15.0:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:C6:A7==>Abdulmalik==>WPA/WPA2==>0506290292==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.16.31:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DE:5A:-==>Emad==>WPA/WPA2==>12-41-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.17.192:80==>Timed out==>user:user==>Device Login==>
+51.235.21.130:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:C0:4A:F0==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.15.1==>255.255.255.0==>51.235.21.130==>84.235.-.2==>84.235.6.55==>
+51.235.22.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:08:40==>STC_WIFI==>WPA/WPA2==>0555552403==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.22.228:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:FB:98==>STC_WiFi_9058a==>WPA/WPA2==>012355655==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.24.13:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:B7:28==>Like4Card.com==>WPA/WPA2==>1a2b3c4d5e==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.25.46:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:6F:74==>RAKAN==>WPA/WPA2==>0505813432==>25266177==>192.168.100.1==>255.255.255.0==>
+51.235.25.119:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:4E:D4==>KREM==>WPA/WPA2==>mm-0-0==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.26.52:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1D:66:D4==>WirelessNet==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.26.234:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:64:28==>abdullah==>WPA/WPA2==>05005000501==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.27.149:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:51:BC==>AFNSAR==>WPA/WPA2==>0551-4882==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.27.189:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:BB:F7==>3ooaD==>WPA/WPA2==>corolaxli==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.28.202:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:B4:7C==>B==>WPA/WPA2==>0123456-90==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.29.41:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:B4:48==>stc==>WPA/WPA2==>1074-58910==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.32.182:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>[X]==>E4:68:A3:18:F3:DE==>00==>WPA/WPA2==>khaled0ali0551850085ali==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.33.132:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>28:6E:D4:3D:17:8F==>E3==>WPA2==>istrikusuami==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.35.40:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:AC:D8==>Me==>WPA/WPA2==>998877aa==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.35.120:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1D:74:58==>afaqshamel2==>WPA2==>0554443503==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.36.248:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:EE:C8==>khaled ==>WPA/WPA2==>0531010044==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.37.19:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:22:10==>Fiber stc==>WPA/WPA2==>paper_1p==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.37.44:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:54:CF:F8==>HUAWEI-2.4G-yMH7==>WPA/WPA2==>uuXQWrDv==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.37.245:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:28:DA:C1==>yasameen19==>WPA/WPA2==>05041690-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.39.202:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:90:3B:E0==>Salim2==>WPA/WPA2==>SS5547-611==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.40.160:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:D9:BC==>siyarkhan==>WPA/WPA2==>11224466==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.41.41:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:0F:A8==>Hamad==>WPA/WPA2==>444666777==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.42.19:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:21:E6==>EBRAHIM==>WPA2==>0599913029==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.42.171:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:13:9B:26==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.42.238:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:3B:40==>ESSA==>WPA/WPA2==>0505840814==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.43.84:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:15:5C==>Fahad-1==>WPA/WPA2==>0554160160==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.47.155:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:A9:01:14==>khkhkh==>WPA/WPA2==>0501844444==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.48.5:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:01:14==>Adwani==>WPA/WPA2==>1234321Qq==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.48.58:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:DB:64==>Samer==>WPA/WPA2==>0535175000==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.49.57:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AF:1F:88==>AL-amri==>WPA/WPA2==>35822888==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.49.253:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:99:20==>Yazed==>WPA/WPA2==>112962887==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.49.255:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:77:6D:50==>saqer666==>WPA/WPA2==>569666682==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.50.236:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:B4:8C==>Ahmed==>WPA/WPA2==>0565752222==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.51.114:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:AD:C1:B2==>Valmill==>WPA/WPA2==>control1513==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.51.234:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:29:90==>Ameen==>WPA/WPA2==>87654321==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.55.115:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DE:57:CC==>WWWD==>WPA/WPA2==>AA6767AA==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.55.242:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:92:B0==>HUAWEI-2.4G-KN99==>WPA/WPA2==>0500160372==>12345670==>192.168.77.1==>255.255.255.0==>
+51.235.58.77:80==>user:passwd=>admin:admin==>TP-LINK TL-WA901ND (access denied)==>TP-LINK_AP_EFC22C==>WPA/WPA2==>hussahsaleh==>192.168.100.2==>255.255.255.0==>
+51.235.59.92:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:2A:9B==>Mohammed1==>WPA/WPA2==>moh123456==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.59.223:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:29:90==>Jamal Al-houli==>WPA/WPA2==>056-37654==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.61.209:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:2E:24==>osman1==>WPA/WPA2==>2247077-1==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.62.207:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:81:2C==>ABO KHALED==>WPA/WPA2==>557-2001==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.161:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:64:33:2A==>Khalid==>WPA/WPA2==>0554515220==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.69.95:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B6:F0:F4==>msalgamdi==>WPA==>0554176669==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.69.207:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:F4:98==>Reden08==>WPA/WPA2==>cellona03==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.72.49:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AF:21:B8==>SnFWireless N==>WPA/WPA2==>solidsnake==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.73.39:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:E0:80==>HUAWEI-2.4G-qsHe==>WPA/WPA2==>00000011==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.74.55:80==>204==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>70:7B:E8:07:7C:AA==>Ali==>WPA/WPA2==>fahad-0554-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.74.97:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:71:8A==>Ahmed==>WPA/WPA2==>0138423732==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.75.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:-:CC:96==>ykhamees==>WPA/WPA2==>0554146147==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.76.77:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:C8:34==>STC123==>WPA/WPA2==>87654321==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.76.130:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:21:2B:0C==>STC==>WPA/WPA2==>LHD111315==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.76.189:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:24:80==>khaled1==>WPA/WPA2==>138610542==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.232:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>08:19:A6:B5:0D:BB==>Hesham==>WPA==>azoozsalomara==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.43:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:6C:8A:-==>HAHOME1==>WPA/WPA2==>alali2013==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.88.81:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:84:68==>khalid==>WPA/WPA2==>0503223310==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.89.57:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:0F:E9:2B==>ADEL==>WPA/WPA2==>19551010==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.95.204:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:9E:70:13==>Ahmad==>WPA/WPA2==>0561323224==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.131.45:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:61:A8==>CommanderHome==>WPA/WPA2==>0555447752==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.132.43:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:89:5B:CF==>mox==>WPA2==>2222222222==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.133.124:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:91:58==>WirelessNet==>WPA2==>4504732a==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.133.222:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:7B:9C==>rainbow326==>WPA/WPA2==>123456-90123==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.134.170:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:90:64==>NIAZI WIFI==>WPA/WPA2==>shoaibaaa==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.134.188:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DD:D2:40==>HW-E81626666==>WPA/WPA2==>aahz4055==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.138.102:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:18:EC:74==>Abdullah1==>WPA==>055542-43==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.138.244:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:2D:B0==>STC==>WPA/WPA2==>0560474451==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.139.252:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E5:01:A3==>HOME==>WPA/WPA2==>Deema1234==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:E6:E0==>Abowteen==>WPA/WPA2==>-7-7w==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.196:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:2C:6C==>homechoices==>WPA/WPA2==>0555802226==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.232:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:EA:18==>Fatten ==>WPA/WPA2==>0505917526==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.143.20:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DE:87:BC==>Saud==>WPA/WPA2==>0590905522==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.148.10:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:1A:F1==>SAAD_Muhammad==>WPA==>3300033000==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.149.148:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:17:3E:42==>Mohamed==>WPA/WPA2==>050529-6==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.149.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:8A:64==>sh8ah==>WPA/WPA2==>S1234554321==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.150.115:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:8F:DC==>IS_Home==>WPA/WPA2==>00000013012==>12345670==>192.168.1.1==>255.255.255.0==>
+51.235.151.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:A4:58==>JDRplace==>WPA/WPA2==>mffa*8967==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.151.157:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:40:F8==>ALLAFI==>WPA2==>0505486-0==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.152.4:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:DB:58==>domeplastic==>WPA/WPA2==>handlesr12==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.24:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:C3:88==>STC_WiFi_8153==>WPA/WPA2==>3954100030==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.157.184:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:6D:B8==>STC_WiFi_B258==>WPA/WPA2==>WBJq9nkV==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.159.49:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:68:D8==>abdulrahman==>WPA/WPA2==>0555422766==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.159.105:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:1C:70==>STC_WiFi==>WPA/WPA2==>fhk104624==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.160.111:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:29:2B:43==>HOME-STC==>WPA/WPA2==>0554400807==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.160.153:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:82:08==>khalid2==>WPA/WPA2==>0556823900==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.160.255:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:21:5A:6E==>Abudallah==>WPA/WPA2==>0555171217==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.180:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:-:F2:FC==>WirelessNet==>WPA/WPA2==>19951995==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.165.11:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:F2:C4==>STC==>WPA/WPA2==>s1s2s3s4==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.165.108:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:E0:FC==>A_E==>WPA/WPA2==>0567654711==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.167.62:8080==>user:passwd=>DD-WRT (name: DD-WRT, model: WZR-HP-G450H)==>10:6F:3F:4C:BE:83==>ALFAHD==>192.168.1.1==>51.235.167.62==>
+51.235.167.62:80==>user:passwd=>DD-WRT (name: DD-WRT, model: WZR-HP-G450H)==>10:6F:3F:4C:BE:83==>ALFAHD==>192.168.1.1==>51.235.167.62==>
+51.235.167.170:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:03:DC==>abu anas==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.170.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:FE:C0==>HUAWEI-2.4G-3pxr==>WPA/WPA2==>vVHKQRYu==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.171.39:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:5A:B8==>Saadeddin==>WPA/WPA2==>saad13123==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.-.71:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:27:17:8C==>kamal123==>WEP 128==>aaaaaaaaaaaaa==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.173.44:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:58:00==>HUAWEI-2.4G-Uub8==>WPA/WPA2==>Fahad504445583==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.173.177:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:25:50==>WIFI==>WPA/WPA2==>05044464730==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.174.11:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:0C:0D:33==>wael==>WPA/WPA2==>55-47444==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.175.149:80==>157==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:1A:3C==>Yousef==>WPA/WPA2==>0509764058==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.176.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CC:F5:-==>Osman==>WPA/WPA2==>0556100556==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.26:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:14:25==>NADA==>WPA==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.239:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:08:26:2B==>alisalem==>WPA==>0505901825==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.181.89:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:14:39==>Khaled1==>WPA/WPA2==>0554447055==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.181.153:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B6:D1:C0==>Sab13==>WPA/WPA2==>12341234==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.181.242:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:E9:08==>mohamed asiq==>WPA/WPA2==>naamtamilarvlm@2016==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.183.91:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:8B:FC==>MOHAMMED==>WPA/WPA2==>12345607==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.185.39:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:B8:46:C0==>Afnan==>WPA/WPA2==><not implemented>==>192.168.5.1==>255.255.255.0==>51.235.185.39==>84.235.-.3==>84.235.6.55==>
+51.235.186.44:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:D1:42:81==>my_home==>WPA/WPA2==>Hi22446-Hi==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.186.123:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:53:B8==>joori==>WPA/WPA2==>60366036==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.187.39:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:28:50==>STC==>WPA/WPA2==>49108888==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.189.187:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B7:1C:30==>HUAWEI-2.4G-RI69==>WPA/WPA2==>alamri5155==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.15:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:EA:54==>HUAWEI-2.4G-bCfq==>WPA/WPA2==>scorpe123456==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.1-.170:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:E0:AF==>IBRAHEEM==>WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.198.14:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:BE:74==>money==>WPA/WPA2==>1005724669==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.199.20:8080==>235==>user:passwd=>admin:40318967==>ZyNOS ADSL (TD-W8901G)==>[X]==>74:EA:3A:F9:D1:F4==>3==>WPA/WPA2==>30555809548==>192.168.1.1==>255.255.255.0==>51.235.199.20==>255.255.255.255==>84.235.-.3==>139.59.165.202==>
+51.235.204.236:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:B0:4F==>train==>WPA==>24432443==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.205.113:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CD:09:B4==>40M==>WPA/WPA2==>Emad6666==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.209.219:80==>user:passwd=>admin:123456==>DVR==>
+51.235.212.68:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:76:7C==>VIP==>WPA/WPA2==>asdfghjkl1+1==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.214.2:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:B9:20==>Anil==>WPA/WPA2==>DELL1234==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.215.54:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>28:31:52:3A:7F:1C==>Wirelessnet==>WPA/WPA2==>114877225==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.216.242:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:A4:38==>Fayez_Home==>WPA/WPA2==>Aziz32266==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.218.97:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:44:4E==>HOMENET==>WPA/WPA2==>3cca48d1e5==>28009832==>192.168.100.1==>255.255.255.0==>
+51.235.218.117:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:8D:20==>SMO==>WPA/WPA2==>40444044==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.219.8:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:0D:00==>HILAL13==>WPA/WPA2==>504991602==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.220.103:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:D6:3C==>bona==>WPA/WPA2==>renelda7==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.222.204:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:34:88==>Airtel==>WPA/WPA2==>karambar==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.222.234:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:3A:29==>Nidal==>WPA/WPA2==>0507731234==>12345670==>192.168.100.1==>255.255.255.0==>
+51.235.223.97:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:62:A9==>Rasil==>WPA/WPA2==>0557305045==>12345670==>192.168.100.1==>255.255.255.0==>
+62.149.84.130:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:BB:98==>Mosad==>WPA/WPA2==>stc@home1234==>12345670==>192.168.1.1==>255.255.255.0==>
+62.149.95.1:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:41:04==>STC_WiFi_FD57==>WPA/WPA2==>C4y5dYKs==>12345670==>62.149.90.57==>255.255.255.248==>
+77.30.2.149:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:73:D0==>alaa1600==>WPA2==>0505262376==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.18.122:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:5C:B8==>Home Fiber==>WPA/WPA2==>0556499995==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.25.153:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:B9:D4==>EXPERTS==>WPA/WPA2==>h0509197695==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.36.243:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>08:19:A6:B5:19:4B==>Myhome==>WPA2==>kha100255==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.46.40:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:1F:32==>WirelessNet==>WPA2==>2339721850==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.47.232:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E6:36:5C==>Shahid==>WPA/WPA2==>0556184465==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.48.54:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:B2:EC==>bubbles1==>WPA/WPA2==>038605612==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.73.75:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B6:DA:A4==>Hassan==>WPA/WPA2==>05-120804==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.87.221:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:27:77:0E==>DM==>WPA/WPA2==>dado2000==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.92.52:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:07:7C:8C==>Yasin==>WPA==>seawzy.17==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.92.230:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:68:F7:C8==>dunhiil==>WPA==>a5962098a==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.100.18:80==>171==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:25:A8:14==>Dar-Alons1==>WPA/WPA2==>W0102223-3==>12345670==>192.168.1.1==>255.255.255.0==>
+77.30.114.209:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:26:FC:D4==>WirelessNet==>WPA/WPA2==>0565222164==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.123.253:80==>user:passwd=>admin:12345==>Hikvision App-webs DS-2CD2132-I==><not implemented>==><bridge>==><bridge>==>192.168.1.61==>255.255.255.0==>192.168.1.1==>8.8.8.8 0.0.0.0==>
+77.30.126.17:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:26:20:1B==>Mohammad==>WPA/WPA2==>0505219899==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.129.182:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:11:24==>Dr.Mesfer==>WPA/WPA2==>mr301015==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.133.26:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:CE:44==>klaf==>WPA/WPA2==>0544989976==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.142.154:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:CF:70==>alturki==>WPA2==>saleh8744==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.143.90:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:F7:21==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.147.234:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:B5:8E==>Abu-Abdallah==>WPA/WPA2==>05555254-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.149.241:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:E3:E8==>Shikh==>WPA/WPA2==>558412229==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.159.65:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:1D:08==>Mohmmed==>WPA/WPA2==>0500113870==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.159.242:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:75:34==>khalid4==>WPA/WPA2==>1302-8==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.176.51:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B6:C1:04==>Abul kasem==>WPA/WPA2==>zf123456==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.181.103:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:EB:5C==>STC_WiFi_5658==>WPA/WPA2==>0505800-2==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.183.50:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1C:EA:83==>policeman==>WPA2==>0505283646==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.185.55:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:6A:D4==>eagle==>WPA2==>Fallatah5==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.188.104:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:61:70==>Mohammed1==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.188.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:08:C4:1A==>Naji==>WPA/WPA2==>a0112-6434t==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.190.164:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:F6:D8==>STCNEWS==>WPA/WPA2==>12341234==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.191.51:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:17:30==>Abo_hani==>WPA/WPA2==>888-055==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.192.9:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:05:4C==>HUAWEI-2.4G-xWUV==>WPA/WPA2==>Xg3M3NUp==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.1-.49:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:4E:C4==>Al-Hamidi==>WPA/WPA2==>0558749977==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.197.72:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:DC:FC==>HUAWEI-2.4G-H6uf==>WPA/WPA2==>u3fqn2nQ==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.197.224:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:75:D1:FC==>MANO==>WPA/WPA2==>19951997==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.201.116:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:55:E7:3C==>BADR==>WPA/WPA2==>05554-41==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.-.254:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:F1:80:A5==>Taher==>WPA/WPA2==>TAher3-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.205.186:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>08:19:A6:B5:BC:12==>abusalem==>WPA==>0546506-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.206.32:80==>157==>user:passwd=>admin:010-0405==>ZyNOS ADSL (TD-W8901G)==>90:F6:52:C6:CA:24==>consumer==>WPA/WPA2==>9876543210lan==>192.168.1.1==>255.255.255.0==>77.30.206.32==>255.255.255.255==>84.235.6.24==>95.130.13.153==>
+77.30.208.49:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:-:4B==>Hilal2==>WPA/WPA2==>128-666==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.208.230:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:BB:7C==>05--881==>WPA/WPA2==>fdmy1t4m10==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.209.47:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7F:E5:0D==>BaasSsaaM==>WPA/WPA2==>y@W!1kW!1@h==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.209.132:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:F8:-==>mshmsh==>WPA/WPA2==>0506777088==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.210.200:80==>user:passwd=>admin:nimda==>WAP300N==>
+77.30.212.41:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:CC:AC==>STC_WiFi_A557==>WPA/WPA2==>EwG57E3y==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.212.95:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>28:6E:D4:67:B2:13==>villa227==>WPA2==>Paraguay==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.212.46:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:7D:74==>ABDALLA==>WPA/WPA2==>0505870852==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.212.77:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8F:84:A0==>yousof==>WPA/WPA2==>05058419-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.214.77:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:9F:7A==>ALFARAJBLDG10==>WPA/WPA2==>333222111==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.214.241:80==>15==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:B0:50==>Ali770==>WPA/WPA2==>0504224291lll==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.216.23:80==>62==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:CE:E0==>UnisisSolutions==>WPA/WPA2==>1-7india==>12345670==>192.168.1.1==>255.255.255.0==>
+77.30.216.-:80==>469==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:62:32==>soso==>WPA/WPA2==>0505461290==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.218.123:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:64:BA==>maxsmas==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.219.81:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:3D:5C==>OYK==>WPA/WPA2==>P123456-9t==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.219.227:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:46:54==>DAWOOD 2==>WPA/WPA2==>0555956226==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.220.238:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:09:3C:40==>Hind-1==>WPA/WPA2==>111aaa111==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.221.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:26:FA:B8==>Nasser==>WPA/WPA2==>0544055715==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.222.132:80==>user:passwd=>admin:admin==>DrayTek Vigor2820n==>00:50:7F:E7:B6:A0==>LONY-BR3==>WPA/WPA2==><not implemented>==>192.168.3.1==>255.255.255.0==>77.30.222.132==>84.235.6.24==>
+77.30.222.255:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:77:64:C0==>ZainSA==>WPA/WPA2==>Zz500700==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.223.-:80==>47==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BB:F6:B0==>FBI_Surveillance_Van_7==>WPA/WPA2==>Dammam001==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.225.174:80==>157==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:0C:21:FB==>alasmarin==>WPA==>-23-23==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.225.225:80==>235==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:BD:B8==>FAISAL==>WPA/WPA2==>0505920-3==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.226.168:80==>250==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:C8:C5==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.227.8:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>80:FB:06:38:8F:DB==>C-11==>WPA==>sleeping==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.227.91:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:59:30==>UMAR==>WPA/WPA2==>hanifa12==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.227.124:80==>user:passwd=>D-Link DNR-326==>-==><no wireless>==>-==>-==>192.168.100.100==>
+77.30.228.29:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:BF:E0==>Stc==>WPA/WPA2==>Stc20014==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.229.1:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:13:DE==>BADER==>WPA/WPA2==>0505866202==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.229.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:0D:13==>Talal==>WPA/WPA2==>05554436-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.229.216:80==>user:passwd=>admin:admin==>RE2000==>
+77.30.230.47:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:E3:17==>abomaha==>WPA/WPA2==>356-00==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.232.233:80==>user:passwd=>admin:123456==>DNR-202L==>
+77.30.233.91:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:BA:BC==>laelatalkaif2016==>WPA/WPA2==>1234512345==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.233.183:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:D2:CC==>smart1==>WPA/WPA2==>44442222==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.234.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:5B:B8==>Huawei==>WPA/WPA2==>1020732242==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.234.207:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:28:E3==>WirelessNet==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.236.42:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:A4:DE==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.236.106:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:98:ED:-==>ATTIA1==>WPA/WPA2==>2534253425==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.238.215:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DF:EA:68==>Home==>WPA/WPA2==>013340-3sa==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.239.65:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:26:31:7D==>modeltown==>WPA/WPA2==>asher1359==>67-97-==>192.168.100.1==>255.255.255.0==>
+77.30.241.10:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:64:4E==>mora==>WPA2==>miss2015==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.243.3:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:03:D8==>SFEIR==>WPA/WPA2==>christian123==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.243.252:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:18:D9:58==>abunemer==>WPA/WPA2==>0555211316==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.245.2:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:98:BC==>Afaqshameel==>WPA/WPA2==>2222222222==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.248.135:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:54:68==>FSAT==>WPA/WPA2==>fatma112233==>12345670==>192.168.1.1==>255.255.255.0==>
+77.30.248.161:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:CF:C8==>GTEL Home==>WPA/WPA2==>114961062==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.249.200:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:09:38:30==>SHAFI1==>WPA/WPA2==>80707088==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.250.51:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:81:89:4C==>ABCD==>WPA/WPA2==>123456-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.250.161:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:4B:A4==>MGS==>WPA/WPA2==>1024823120==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.251.134:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:0E:E4==>STC_WiFi_DE55==>WPA/WPA2==>3sr25U3M==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.252.89:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:9D:61==>WirelessNet==>WPA/WPA2==>eeeeeeee==>59925545==>192.168.100.1==>255.255.255.0==>
+77.30.255.90:80==>-user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:24:5B:16==>Ahemd==>WPA==>aljama12==>12345670==>192.168.100.1==>255.255.255.0==>
+77.30.255.173:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DA:86:6C==>STC_WiFi_6433==>WPA/WPA2==>XSvsUfn7==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.1.122:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:88:88==>Omar==>WPA2==>omar054054054==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.2.254:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:85:09:C8==>BB3G898==>WPA/WPA2==>1982jbr8960==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.15.10:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:43:24==>Umbrella1==>WPA/WPA2==>0582226670==>12345670==>-.30.66.1==>255.255.255.0==>
+77.31.25.67:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:40:C4==>manchukurisevelalo==>WPA/WPA2==>manasugathiinthe==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.25.217:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:20:47:DE==>Mohammed==>WPA/WPA2==>21-068==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.26.154:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:D7:18==>STC_VENKAT==>WPA/WPA2==>05535-312==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.27.170:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:64:84==>HATEM-AHMED==>WPA/WPA2==>05573610061006==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.31.204:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:89:84==>ATIF==>WPA==>114623305==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.33.188:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:32:48==>Aseem==>WPA/WPA2==>aseem5555==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.37.3:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:A9:5A==>ROSE143==>WPA/WPA2==>rosas8190amcc==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.45.254:80==>user:passwd=>admin:123456==>DVR==>
+77.31.49.243:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:B7:2F==>saeed.==>WPA/WPA2==>saeed4530==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.51.188:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:AB:E9==>0554664484==>WPA/WPA2==>0566252444==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.53.75:80==>user:passwd=>admin:8474==>Micro DSL (9-58VW2 | 3.12L.01.sip.allA2pB023k.d20k rc2)==>00:1E:40:45:25:6C==>Hajrawi_Zbox1==>WPA2==>ahbnyhl96==>192.168.1.1==>255.255.255.0==>77.31.53.75==>84.235.124.9==>46.151.215.- 8.8.8.8==>
+77.31.56.201:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DE:60:AE==>Bander==>WPA/WPA2==>0500500273==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.60.226:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:DE:6C==>Abdulaziz==>WPA/WPA2==>0555282016==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.77.161:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AE:4E:B8==>AzizFiber==>WPA/WPA2==>aaabbbcccf==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.68:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:9B:24==>STC2==>WPA2==>firoz-333==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.211:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:8D:64==>MUFC==>WPA/WPA2==>0555457577==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.83.28:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:B5:F0==>STC-FIBER==>WPA/WPA2==>h1473690==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.83.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8C:97:E3==>WirelessNet==>WPA==>20801nnn==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.91.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:24:53:E6==>alflwah==>WPA/WPA2==>05034709-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.91.241:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:07:A1:74==>ibnfahaid==>WPA2==>hisajamal1234==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.91:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:1B:A4==>wedwed==>WPA/WPA2==>84182-==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.96.245:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:5A:54==>SYED==>WPA2==>Thisis9k==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.97.254:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:5C:E0==>OMAR==>WPA/WPA2==>0551955544==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.102.238:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:A9:4B:CC==>MOBI3G==>WPA/WPA2==>1982jbr8960L==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.49:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>28:31:52:3A:5F:BE==>ASD==>WPA/WPA2==>12344321==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.114.231:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:22:E1:98==>Bo awais==>WPA/WPA2==>0535300114==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.116.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:D1:34:C1==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.119.43:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:B7:9C==>Afaq_2016==>WPA/WPA2==>0556806449==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.132.169:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:AD:B0:F0==>Sh==>WPA/WPA2==>0540808411==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.136.211:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:0B:70==>HANAFI==>WPA/WPA2==>20041112==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.137.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:95:97==>FAHAD==>WPA/WPA2==>Aleen123456==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.1-.62:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:07:A4:1C==>Gasim==>WPA2==>1064927135==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.1-.72:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:19:0F:D6==>ABOSAAD==>WPA/WPA2==>0504444038==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.1-.10:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6F:00:DC==>Kerala boys==>WPA/WPA2==>0505257721==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.195.220:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1F:BB:DF==>ROOT==>WPA2==>123443210==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.197.27:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:91:04==>Home==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.197.119:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:F7:50==>wtfvirus==>WPA/WPA2==>markreyes==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.198.43:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:4A:80==>STC123==>WPA/WPA2==>0505196-5==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.198.205:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A2:28:19==>ATTA==>WPA/WPA2==>atta1717==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.199.24:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:AF:41==>terrykehoe==>WPA/WPA2==>honeybee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.199.67:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:13:-==>ADEL==>WPA/WPA2==>123123123==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.200.41:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A6:23:49==>MNADKJ==>WPA/WPA2==>1126811268==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.201.198:80==>user:passwd=>admin:123456==>DVR==>
+77.31.-.153:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:C4:90==>JZMO==>WPA/WPA2==>@@@OBAY880OBAY///==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.-.204:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BC:6E:10==>Cobia==>WPA/WPA2==>byucougars==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.204.195:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6F:BB:58==>rakan==>WPA/WPA2==>rakan505==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.204.243:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:72:70==>bu-ahmed.net==>WPA/WPA2==>a99007003==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.206.55:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:54:DA:B8==>HUAWEI-2.4G-xcQ8==>WPA/WPA2==>28U6g5cQ==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.206.200:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:53:38==>ABDULRAHMAN==>WPA/WPA2==>0505423260==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.208.25:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:BA:04==>Yasin==>WPA/WPA2==>0508225771==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.211.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:55:2C:34==>ABUSHAHID_SADANI==>WPA/WPA2==>mon25as80==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.211.187:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:3E:B8==>Home==>WPA2==>0030000300==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.211.215:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E5:4C:FD==>arif999==>WPA/WPA2==>0544550068==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.212.52:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:89:-:51==>gah5==>WPA/WPA2==>gah120962==>3427460==>192.168.100.1==>255.255.255.0==>
+77.31.212.192:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:FB:00==>sashamamayy==>WPA/WPA2==>0505384368==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.213.0:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:84:98==>saad==>WPA/WPA2==>1010101010==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.214.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>-:DB:DA:2E:8A:64==>gabbar==>WPA/WPA2==>0533142685m==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.214.42:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:E8:F8==>NSB==>WPA/WPA2==>038333865==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.215.118:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A6:04:8B==>ASQ15==>WPA/WPA2==>saq15ali==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.215.159:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:F5:2C==>ALKARIRI==>WPA/WPA2==>sa0504970811==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.215.219:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:B0:15:56==>Manjp==>WPA/WPA2==>gnoeld17552==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.218.101:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7C:6A:28==>WirelessNet==>WPA/WPA2==>0569887442==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.219.118:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:B4:6B==>Love==>WPA/WPA2==>3333333333==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.220.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:91:90==>SALEH==>WPA/WPA2==>557244840==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.220.236:8080==>user:passwd=>admin:admin123==>stc==>
+77.31.223.207:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:75:B1==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.223.196:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:CC:AA==>aburacan==>WPA/WPA2==>050531959==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.224.30:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:27:-==>alesayi==>WPA/WPA2==>05046-72==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.228.2:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CC:F2:A8==>Abdulmajed==>WPA/WPA2==>050624-4==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.229.135:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:FE:A4==>fallatah==>WPA/WPA2==>qwq10474-050==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.229.252:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:08:22:39==>KHALID==>WPA==>0138327567==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.230.202:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:67:BC==>HUAWEI-2.4G-bdF6==>WPA/WPA2==>514733ab==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.231.13:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:55:1B:00==>Mar 2.4GHZ==>WPA/WPA2==>1036896171==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.231.180:80==>user:passwd=>admin:admin==>TP-LINK TL-WA901ND==>30:B5:C2:A5:CC:AF==>TP-LINK_AP_A5CCAF==>WPA2==>66086608==>81080410==>192.168.1.14==>255.255.255.0==>
+77.31.232.8:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:B8:24==>Barrow==>WPA/WPA2==>8328762429==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.232.205:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:9E:86:39==>notforcharity==>WPA/WPA2==>fifi7154==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.232.255:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:57:E8==>Ibrahim New==>WPA/WPA2==>0-745-68==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.232.231:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:71:-==>Hizam==>WPA/WPA2==>5060708090==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.234.228:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:35:50==>khaled==>WPA/WPA2==>123456-9==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.238.50:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A6:0A:53==>lol_gg==>WPA2==>123321123==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.238.74:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:E8:58==>Spraguestc==>WPA/WPA2==>5RD1bv8p==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.240.250:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:19:18:4D==>WirelessNet==>WPA/WPA2==>0544021655==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.241.139:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:D7:B8==>[AlMuhanna][2.4G][Network]==>WPA/WPA2==>0566667136==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.245.76:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:3E:E8==>Yoyo==>WPA/WPA2==>11920112013==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.247.53:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:31:B6==>WirelessNet==>WPA/WPA2==>118800898==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.247.123:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:6D:00==>Hani==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.251.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:58:08==>AnasWifi==>WPA/WPA2==>anas1812==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.255.139:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:9C:62==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+77.31.255.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:74:E6==>BRUCE_COOKE==>WPA/WPA2==>053-31262==>12345670==>192.168.100.1==>255.255.255.0==>
+77.64.33.251:80==>user:passwd=>admin:46519283==>ZyNOS ADSL (TD-W8901G)==>74:EA:3A:ED:3E:48==>SEO IT==>WPA/WPA2==>seo304391==>192.168.1.1==>255.255.255.0==>77.64.33.251==>255.255.255.255==>212.-.1-.15==>54.186.51.153==>
+77.221.126.27:80==>user:passwd=>root:admin123==>HP LaserJet 100 Color MFP M175nw==><bridge>==><bridge>==>77.221.126.27==>255.255.254.0==>0.0.0.0==>
+77.221.126.27:8080==>user:passwd=>root:admin123==>HP LaserJet 100 Color MFP M175nw==><bridge>==><bridge>==>77.221.126.27==>255.255.254.0==>0.0.0.0==>
+77.221.126.18:80==>user:passwd=>admin:admin==>CHIYU==>
+77.221.126.8:80==>user:passwd=>HP LaserJet CM-5fn==><bridge>==><bridge>==>77.221.126.8==>255.255.0.0==>77.221.104.10==>
+77.221.126.8:8080==>user:passwd=>HP LaserJet CM-5fn==><bridge>==><bridge>==>77.221.126.8==>255.255.0.0==>77.221.104.10==>
+77.240.95.95:80==>user:passwd=>admin:admin==>Cisco Web Console==>
+77.240.95.153:80==>user:passwd=>support:support==>Micro DSL (DSL-2730U 9-281TAVNG | B038 K8G 0K-00-4022.V01)==>-:54:2E:7E:E7:1B==>RAE-WL==>WPA/WPA2==>rae12345==>76229909==>192.168.1.1==>255.255.255.0==>77.240.95.153==>95.130.13.153 8.8.8.8==>
+78.93.29.145:80==>user:passwd=>cisco:cisco==>Seems to be Cisco Device==>
+78.93.46.225:80==>user:passwd=>admin:admin==>Cisco Web Console==>
+78.93.70.73:80==>user:passwd=>admin:admin==>Cisco Web Console==>
+78.93.180.222:80==>user:passwd=>admin:admin==>Seems to be Cisco Device==>
+78.93.181.-:80==>user:passwd=>admin:admin==>Seems to be Cisco Device==>
+78.93.1-.102:80==>user:passwd=>admin:admin==>Seems to be Cisco Device==>
+78.93.196.86:80==>Getting info...==>admin:<empty>==>D-Link DCS-2103==>-==><no wireless>==>-==>-==><bridge>==><bridge>==>
+78.93.196.84:80==>user:passwd=>root:1qazxsw2==>AXIS_00408CBF4FB1==>
+78.93.204.209:80==>user:passwd=>admin:admin==>DrayTek Vigor2860n+==>00:1D:AA:BA:69:48==>Dar_Alaqal==>WPA==><not implemented>==>192.168.5.1==>255.255.255.0==>-.-.204.209==>212.-.1-.61==>84.22.224.11==>
+78.93.245.137:80==>user:passwd=>admin:294.97==>Cisco Linksys WRT610N==>[X]==>00:25:9C:5C:C6:84==>Google.com==>WPA==>IcAp@321==>-.-.245.137==>255.255.255.248==>-.16.171.14==>255.255.255.252==>-.16.171.13==>31.220.45.213 8.8.8.8==>
+78.93.247.1-:80==>user:passwd=><empty>:Cisco==>Cisco Aironet AP802GN-E-K9==>C0:67:AF:D5:FB:C0==>192.168.20.7==>255.255.255.0==>192.168.20.1==>
+78.110.5.145:80==>user:passwd=>admin:0487-21==>ZyNOS ADSL (TD-W8901G)==>74:EA:3A:AD:74:86==>fastnet==>WPA==>fastnet2016==>192.168.1.1==>255.255.255.0==>-.-.5.145==>255.255.255.255==>-.-.0.115==>46.151.215.-==>
+80.240.78.58:80==>user:passwd=>admin:admin==>DrayTek Vigor2820n==>00:50:7F:A3:8C:F0==>DrayTek==>WPA==><not implemented>==>192.168.1.1==>255.255.255.0==>---==>---==>
+81.21.54.97:80==>user:passwd=><empty>:cisco==>Seems to be Cisco Device==>
+81.21.59.219:80==>user:passwd=>cisco:cisco==>Seems to be Cisco Device==>
+82.118.176.1:80==>user:passwd=>admin:admin1==>Seems to be Cisco Device==>
+82.147.210.238:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:15:3E:A5==>restech==>WPA==>5044--==>12345670==>192.168.100.1==>255.255.255.0==>
+82.147.219.2:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>[X]==>10:1B:54:BD:4A:BC==>mobily-elife==>WPA/WPA2==>zazit2014==>12345670==>192.168.100.1==>255.255.255.0==>82.147.219.2==>255.255.255.252==>82.147.219.1==>86.51.34.17 86.51.35.18==>
+82.147.219.1-:80==>Timed out==>DD-WRT (name: Firewall, model: WZR-HP-G450H)==>B0:C7:45:F3:3C:DE==>Abuljadayel-2==>192.168.1.1==>82.147.219.1-==>
+82.147.219.1-:8080==>Timed out==>DD-WRT (name: Firewall, model: WZR-HP-G450H)==>B0:C7:45:F3:3C:DE==>Abuljadayel-2==>192.168.1.1==>82.147.219.1-==>
+82.147.220.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>10:1B:54:C1:2F:EB==>mad2==>WPA/WPA2==>w123456-90w==>12345670==>192.168.1.1==>255.255.255.0==>82.147.220.1-==>255.255.255.252==>82.147.220.1-==>86.51.34.17 86.51.35.18==>
+84.235.89.24:80==>user:passwd=>ZyXEL NDMSv1==> ==>
+85.129.206.82:80==>user:passwd=>admin:admin==>Thomson Gateway==>
+85.129.206.87:80==>user:passwd=>admin:admin==>Thomson Gateway==>
+85.129.206.81:80==>user:passwd=>admin:admin==>Thomson Gateway==>
+85.1-.70.14:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>[X]==>28:6E:D4:52:19:55==>Mobily-SWAT==>WPA2==>fuckmobily==>12345670==>192.168.100.1==>255.255.255.0==>
+85.1-.76.161:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:17:10:F8==>WirelessNet==>None==><empty>==>12345670==>85.1-.76.161==>255.255.255.0==>
+85.194.97.158:80==>user:passwd=>D-Link DNR-322L==>-==><no wireless>==>-==>-==>192.168.128.13==>
+85.194.97.244:80==>user:passwd=>admin:<empty>==>PVC-300==>
+85.194.97.243:8080==>375==>user:passwd=>admin:<empty>==>PVC-300==>
+85.194.97.243:80==>user:passwd=>admin:<empty>==>PVC-300==>
+85.194.97.242:80==>user:passwd=>admin:admin==>PVC-300==>
+85.1-.115.218:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>10:1B:54:C1:3F:E5==>Enmaeyat-ACC==>WPA/WPA2==>ENM4-030==>12345670==>192.168.100.1==>255.255.255.0==>85.1-.115.218==>255.255.255.252==>85.1-.115.217==>86.51.34.17 86.51.35.18==>
+85.1-.119.62:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>10:1B:54:C1:36:5D==>SSS==>WPA==>960RYDHO==>12345670==>10.10.72.250==>255.255.255.0==>85.1-.119.62==>255.255.255.252==>85.1-.119.61==>86.51.34.17 86.51.35.18==>
+86.51.147.142:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>10:1B:54:BC:2B:2C==>zain==>WPA/WPA2==>2210540a==>12345670==>192.168.100.1==>255.255.255.0==>86.51.147.142==>255.255.255.252==>86.51.147.-==>86.51.34.17 86.51.35.18==>
+86.51.149.70:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>10:1B:54:BC:1E:48==>WirelessNet==>None==><empty>==>12345670==>10.0.0.138==>255.255.255.0==>86.51.149.70==>255.255.255.252==>86.51.149.69==>86.51.34.17 86.51.35.18==>
+87.101.130.121:80==>user:passwd=>user:<empty>==>PCS-1 Web Control==>
+87.101.131.251:80==>user:passwd=>admin:95610237==>ZyNOS ADSL (ADSL+ Router)==>00:30:4F:58:82:7E==>kunju john==>WPA2==>13018404==>192.168.1.1==>255.255.255.0==>87.101.131.251==>255.255.255.255==>87.101.131.254==>185.35.67.253==>
+87.101.133.-:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7A:DC==>AramcoB42==>WPA/WPA2==>17765004==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.62:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7B:E5==>AramcoB37==>WPA/WPA2==>2-84058==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.-:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7D:FC==>Aramco B054==>WPA/WPA2==>48406051==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.138:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:77:DA==>AramcoB27==>WPA/WPA2==>02623883==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.147:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7E:6F==>Aramco B005==>WPA/WPA2==>96953471==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.149:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:-:CE==>AramcoB28==>WPA/WPA2==>08133581==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.131:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:-:E7==>Aramco B068==>WPA/WPA2==>41272510==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.143:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7A:B4==>kac==>WPA/WPA2==>11223344==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.158:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:-:FC==>B049==>WPA/WPA2==>35606155==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.150:80==>user:passwd=>admin:******==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7A:6E==>Chris-Aramco-B45==>WPA/WPA2==>Zte@Aramco94.969==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.148:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7E:A6==>Villa#B20==>WPA/WPA2==>45729855==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.171:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7C:DA==>Aramco B053==>WPA/WPA2==>35129-2==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.186:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7B:D1==>B015==>WPA/WPA2==>zsh770914==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.177:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7E:A1==>AramcoB024==>WPA/WPA2==>08-5627==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.152:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7C:35==>Aramco B061==>WPA/WPA2==>67060129==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.180:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:-:52==>Aramco B012==>WPA/WPA2==>08164458==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.176:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7A:AF==>Aramco B099==>WPA/WPA2==>74970954==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.133.185:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:7E:3D==>Aramco B010==>WPA/WPA2==>-214436==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+87.101.139.128:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:21:4B==>ITC-Villa60==>WPA/WPA2==>010-966==>12345670==>192.168.100.1==>255.255.255.0==>
+87.101.139.117:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2E:7E==>ITC-NOOR==>WPA2==>0542097026==>7182-34==>192.168.1.1==>255.255.255.0==>87.101.139.117==>255.255.255.255==>87.101.139.254==>
+87.101.94.96:80==>user:passwd=>admin:Moh@Pwd8252==>Micro DSL (WLAN-N | 3-12-01-1Z00.A2pB030a.d22h1)==>22:22:15:32:36:3D==>villa 17==>WPA==>rpov2815==>192.168.1.1==>255.255.255.0==>87.101.94.96==>87.101.-.254==>46.151.215.- 8.8.8.8==>
+87.101.-.52:80==>user:passwd=>admin:37049251==>ZyNOS ADSL (TD-W8901G)==>B0:48:7A:A3:38:F9==>MAPAGMAHAL==>WPA/WPA2==>ANUNCIACION31MELVIN31==>192.168.1.1==>255.255.255.0==>87.101.-.52==>255.255.255.255==>87.101.-.254==>46.151.215.-==>
+87.101.-.180:80==>user:passwd=>admin:31986520==>ZyNOS ADSL (ADSL+ Router)==>00:30:4F:58:8F:E6==>aiste==>WPA2==>aisteru@@@==>192.168.1.1==>255.255.255.0==>87.101.-.180==>255.255.255.255==>87.101.-.254==>46.151.215.-==>
+87.101.-.242:80==>user:passwd=>admin:103657-==>ZyNOS ADSL (TD-W8901G)==>74:EA:3A:ED:3E:C1==>Zimatar==>WPA/WPA2==>11119999==>192.168.1.1==>255.255.255.0==>87.101.-.242==>255.255.255.255==>87.101.-.254==>46.151.215.-==>
+87.101.142.35:80==>user:passwd=>admin:admin==>Inca Networks Administration==>
+87.101.145.33:80==>user:passwd=>admin:49123876==>ZyNOS ADSL (TD-W8901G)==>B0:48:7A:C7:E5:C3==>TP Boy==>WPA2==>pvcc1982==>192.168.1.1==>255.255.255.0==>87.101.145.33==>255.255.255.255==>87.101.145.126==>185.35.67.253==>
+87.101.145.13:80==>user:passwd=>admin:97608314==>ZyNOS ADSL (2.11.38.0_1.6 OvisLink AirLive WT-2000ARM Turbo-G ADSL Router)==>00:4F:6A:06:D3:C4==>jennylyn==>WPA/WPA2==>-1121824==>192.168.1.1==>255.255.255.0==>87.101.145.13==>255.255.255.255==>87.101.145.126==>185.35.67.253==>
+87.101.145.56:80==>user:passwd=>admin:054276-==>ZyNOS ADSL (ADSL+ Router)==>00:30:4F:57:-:9B==>julie==>WPA2==>johnhero==>192.168.1.1==>255.255.255.0==>87.101.145.56==>255.255.255.255==>87.101.145.126==>185.35.67.253==>
+87.101.145.88:80==>user:passwd=>admin:65308912==>ZyNOS ADSL (TD-W8901G)==>B0:48:7A:EC:81:DE==>nzaza==>WPA==>14438474==>192.168.1.1==>255.255.255.0==>87.101.145.88==>255.255.255.255==>87.101.145.126==>185.35.67.253==>
+87.101.145.114:80==>user:passwd=>admin:41750298==>ZyNOS ADSL (TD-W8901G)==>D8:5D:4C:D9:E3:EF==>boss marlon==>WPA/WPA2==>asiong!!!==>192.168.1.1==>255.255.255.0==>87.101.145.114==>255.255.255.255==>87.101.145.126==>185.35.67.253==>
+87.101.150.104:80==>user:passwd=>admin:75802439==>ZyNOS ADSL (LW-WAR2)==>00:25:86:D8:51:A0==>kavarodi3==>WPA2==>1210211221==>192.168.1.1==>255.255.255.0==>87.101.150.104==>255.255.255.255==>87.101.150.126==>185.35.67.253==>
+87.101.158.17:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:6F:C9==>Anna==>WPA/WPA2==>0540230-7==>26183503==>192.168.1.1==>255.255.255.0==>87.101.158.17==>255.255.255.255==>87.101.158.254==>
+87.101.158.122:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:A9:CC:BD==>ITC-205==>WPA/WPA2==>23246211==>03142660==>192.168.1.1==>255.255.255.0==>87.101.158.122==>255.255.255.255==>87.101.158.254==>
+87.101.158.104:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:A5:67:EA==>ITC-DALENE1==>WPA2==>02231-7==>86742184==>192.168.1.1==>255.255.255.0==>87.101.158.104==>255.255.255.255==>87.101.158.254==>
+87.101.158.154:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:D5:07:2E==>ITC-JANI==>WPA2==>0502268473==>05032808==>192.168.1.1==>255.255.255.0==>87.101.158.154==>255.255.255.255==>87.101.158.254==>
+87.101.158.195:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:D5:07:84==>ITC/41==>WPA2==>01069802==>74676439==>192.168.1.1==>255.255.255.0==>87.101.158.195==>255.255.255.255==>87.101.158.254==>
+87.101.158.208:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:DF:39:F2==>ITC-NAS#27==>WPA2==>itcnas123==>97462231==>192.168.1.1==>255.255.255.0==>87.101.158.208==>255.255.255.255==>87.101.158.254==>
+87.101.158.223:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:70:06==>ITC-1065400==>WPA/WPA2==>13061977==>64705835==>192.168.1.1==>255.255.255.0==>87.101.158.223==>255.255.255.255==>87.101.158.254==>
+87.101.159.14:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:A5:72:60==>Villa-306==>WPA2==>10-040==>0404-2==>192.168.1.1==>255.255.255.0==>87.101.159.14==>255.255.255.255==>87.101.159.254==>
+87.101.159.60:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:6F:C3==>Ahmad Khan-Test==>WPA2==>87654321==>4-92866==>192.168.1.1==>255.255.255.0==>87.101.159.60==>255.255.255.255==>87.101.159.254==>
+87.101.159.164:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:73:15==>Vila 426==>WPA2==>1072-40==>01912234==>192.168.1.1==>255.255.255.0==>87.101.159.164==>255.255.255.255==>87.101.159.254==>
+87.101.159.142:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:A5:6F:1F==>Villa 157==>WPA2==>-702766==>883351-==>192.168.1.69==>255.255.255.0==>87.101.159.142==>255.255.255.255==>87.101.159.254==>
+87.101.159.168:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:6F:54==>Saiyid==>WPA2==>05659568-==>11804482==>192.168.1.1==>255.255.255.0==>87.101.159.168==>255.255.255.255==>87.101.159.254==>
+87.101.161.195:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:A5:67:E1==>ITC-Villa#82==>WPA2==>01067-2==>51121228==>192.168.1.1==>255.255.255.0==>87.101.161.195==>255.255.255.255==>87.101.161.254==>
+87.101.1-.113:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:23:F3==>Dr.who1==>WPA2==>En5052-480==>12345670==>192.168.100.1==>255.255.255.0==>87.101.1-.113==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+87.101.166.213:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:3A:05==>Villa#16==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>87.101.166.213==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+87.101.171.40:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:A9:CB:32==>Huawei Apt # 32==>WPA2==>0541684330==>19716244==>192.168.1.1==>255.255.255.0==>87.101.171.40==>255.255.255.255==>87.101.171.254==>
+87.101.171.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:4B:5D==>haiderali==>WPA2==>3335056113==>12345670==>192.168.100.1==>255.255.255.0==>87.101.171.-==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+87.101.171.103:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:70:31==>......==>WPA2==>almurjan==>70342-2==>192.168.1.1==>255.255.255.0==>87.101.171.103==>255.255.255.255==>87.101.171.254==>
+87.101.1-.232:80==>user:passwd=>admin:password==>Cisco Linksys EA4500==>C8:D7:19:04:EF:F9==>HyundaiElevators==>WPA2==>JuneHE2015==>192.168.1.1==>255.255.255.0==>87.101.1-.232==>255.255.255.255==>37.76.228.62==>87.101.237.50 87.101.238.5==>
+87.101.1-.113:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:73:71==>TP-LINK==>WPA2==>Qawd40466$==>1482-7==>192.168.1.1==>255.255.255.0==>
+87.101.1-.26:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:45:DC:81==>Saad==>WPA2==>05-919838==>76622427==>192.168.1.1==>255.255.255.0==>
+87.101.206.120:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:70:00==>Abbarroo==>WPA2==>monkey99==>21055874==>192.168.1.1==>255.255.255.0==>87.101.206.120==>255.255.255.255==>87.101.207.254==>
+87.101.206.96:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:70:6F==>Francis==>WPA/WPA2==>59171-36==>40886213==>192.168.1.1==>255.255.255.0==>87.101.206.96==>255.255.255.255==>87.101.207.254==>
+87.101.206.92:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2D:2D==>ITC-EHAB==>WPA2==>0556-5696==>53082756==>192.168.1.1==>255.255.255.0==>87.101.206.92==>255.255.255.255==>87.101.207.254==>
+87.101.206.181:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>30:B5:C2:0A:6F:3D==>Salah==>WPA2==>05690-1-==>384-953==>192.168.1.1==>255.255.255.0==>87.101.206.181==>255.255.255.255==>87.101.207.254==>
+87.101.207.19:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:6F:EA==>AbouZeid==>WPA2==>0502225370==>45398995==>192.168.1.1==>255.255.255.0==>87.101.207.19==>255.255.255.255==>87.101.207.254==>
+87.101.207.73:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2E:87==>Villa-280==>WPA2==>colleen1==>16623422==>192.168.1.1==>255.255.255.0==>87.101.207.73==>255.255.255.255==>87.101.207.254==>
+87.101.207.99:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build -815 Rel.40202)==>C4:6E:1F:A5:6D:8D==>ITC Dr. Imran==>WPA2==>0568268985==>35598602==>192.168.1.1==>255.255.255.0==>87.101.207.99==>255.255.255.255==>87.101.207.254==>
+87.101.207.227:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2E:16==>ausdn_itc==>WPA2==>88888888==>34328392==>192.168.1.1==>255.255.255.0==>87.101.207.227==>255.255.255.255==>87.101.207.254==>
+87.101.223.15:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2E:B2==>Dr.Momen==>WPA/WPA2==>0507590696==>260-966==>192.168.1.1==>255.255.255.0==>87.101.223.15==>255.255.255.255==>87.101.223.254==>
+87.101.223.102:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2A:11==>Rose==>WPA2==>0568977062==>-723601==>192.168.1.1==>255.255.255.0==>87.101.223.102==>255.255.255.255==>87.101.223.254==>
+87.101.223.225:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:70:0D==>ITC-Antoine==>WPA2==>050-65439==>48020749==>192.168.1.1==>255.255.255.0==>87.101.223.225==>255.255.255.255==>87.101.223.254==>
+87.-.128.90:80==>user:passwd=>admin:<empty>==>WIFICAM==>
+87.-.137.129:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:73:04==>PARAGH-VIP==>WPA/WPA2==>10-04050==>12345670==>192.168.100.1==>255.255.255.0==>
+87.-.149.112:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:E5:B4==>RAIDA_AL_KHAIR2==>WPA/WPA2==>0555598557==>12345670==>192.168.100.1==>255.255.255.0==>
+87.-.218.73:80==>Timed out==>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>
+89.237.128.210:80==>user:passwd=>admin:<empty>==>DCS-6210==>
+89.237.128.210:8080==>user:passwd=>admin:<empty>==>streaming_server==>
+89.237.144.26:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>10:1B:54:BC:39:14==>mobily-elife==>WPA/WPA2==>Mortco@123==>12345670==>192.168.6.1==>255.255.255.0==>89.237.144.26==>255.255.255.252==>89.237.144.25==>86.51.34.17 86.51.35.18==>
+89.237.147.166:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:17:10:F8==>WirelessNet==>None==><empty>==>12345670==>85.1-.76.161==>255.255.255.0==>
+89.237.183.174:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:BF:43:B8==>almosa==>WPA==><not implemented>==>192.168.1.1==>255.255.255.0==>---==>---==>8.8.8.8==>
+90.148.32.120:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:1C:70==>STC_WiFi==>WPA/WPA2==>fhk104624==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.129.5:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:-:F0:A8==>Ka3kee==>WPA/WPA2==>mohammad@2012bait-==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.171.240:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:7E:6E==>abojory==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.1-.64:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:1B:EF:96==>stc==>WPA/WPA2==>Bas2250212418AA==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.210.207:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:08:D4==>abuwafy1==>WPA/WPA2==>0554452305==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.214.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6F:96:E0==>HUAWI==>WPA/WPA2==>10-040==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.216.134:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:F1:EC==>OMAR==>WPA/WPA2==>22222224==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.221.250:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:96:24==>Rehan==>WPA/WPA2==>1022503707==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.236.1-:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:A0:40==>DrayTek==>WPA2==><not implemented>==>192.168.1.1==>255.255.255.0==>90.148.236.1-==>84.235.68.247==>84.235.57.230==>
+90.148.243.190:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:0D:5C==>Tarik==>WPA/WPA2==>050911-0==>12345670==>192.168.100.1==>255.255.255.0==>
+90.148.251.241:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:D1:24:BD==>AzIz==>WPA/WPA2==>a1234512345==>12345670==>192.168.100.1==>255.255.255.0==>
+91.147.161.190:80==>user:passwd=>admin:<empty>==>AG 5600==>
+94.98.11.216:80==>user:passwd=>admin:20547613==>ZyNOS ADSL (2.9.8.1_1.1 Edimax ADSL Router)==>00:1F:1F:14:0A:-==>Default==>WPA==>star2011==>192.168.1.1==>255.255.255.0==>94.98.11.216==>255.255.255.255==>212.119.95.65==>54.186.51.153==>
+94.96.155.53:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:09:18==>NASIR==>WPA2==>0505459902==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.-.0:80==>user:passwd=>support:support==>Micro DSL (9-58VW2 | 1.3.6 Build 100825 Rel.68770n)==>[X]==>74:EA:3A:E8:12:AD==>TP-LINK_E812AD==>None==><empty>==>20019723==>192.168.2.254==>255.255.255.0==>94.96.-.0==>94.96.128.1==>185.35.67.253 8.8.8.8==>
+94.96.-.0:8080==>user:passwd=>support:support==>Micro DSL (9-58VW2 | 1.3.6 Build 100825 Rel.68770n)==>[X]==>74:EA:3A:E8:12:AD==>TP-LINK_E812AD==>None==><empty>==>20019723==>192.168.2.254==>255.255.255.0==>94.96.-.0==>94.96.128.1==>185.35.67.253 8.8.8.8==>
+94.96.177.200:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:3D:30==>STC_1==>WPA/WPA2==>izz12345==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.181.15:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:80:02:13==>Abukhalid==>WPA2==>0533398975==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.182.77:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:87:34==>Adel22==>WPA/WPA2==>maha8131==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.186.13:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:69:DC==>Saeedfibre==>WPA/WPA2==>1001067-0==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.186.243:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:D4:-==>STC^_^SALEH==>WPA/WPA2==>Qwer@123==>12345670==>192.168.100.1==>255.255.255.0==>
+94.96.189.58:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:6C:-==>STC_WiFi_8C33==>WPA/WPA2==>2008195352==>12345670==>10.0.10.1==>255.255.255.0==>
+94.96.190.90:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:8E:98==>MT71==>WPA/WPA2==>14725836==>12345670==>192.168.100.1==>255.255.255.0==>
+94.97.89.221:80==>user:passwd=>admin:admin==>TP-LINK TL-WA901ND (access denied)==>3antena==>WPA/WPA2==>Shar!@123==>-.20.17.16==>255.255.255.0==>
+94.97.102.13:80==>user:passwd=>support:support==>Micro DSL (NB604N | NetComm NB604N)==>00:60:64:B8:8B:-==>DAMAD PRIVATE==>WPA/WPA2==>DAMAD@16666==>12846818==>195.200.20.1==>255.255.255.0==>
+94.98.0.209:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:-:A4==>farhat==>WPA==>farhat.1==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.5.50:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:F5:9C==>abuabdullah==>WPA/WPA2==>19871987==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.10.17:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:FF:5C==>YOUTUBE : x3BDul7ai==>None==><empty>==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.18.195:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:9B:20==>MSA1==>WPA/WPA2==>05085353-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.22.196:80==>user:passwd=>admin:password==>Viking Router==>192.168.1.1==>255.255.255.0==>94.98.22.196==>255.255.255.255==>84.235.124.6==>84.235.6.55 84.235.57.230==>
+94.98.27.129:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:08:17:7B==>WirelessNet==>WPA/WPA2==>13361-25==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.40.20:80==>user:passwd=>admin:admin==>RE6500==>
+94.98.41.214:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:D1:2C:51==>Nouf==>WPA/WPA2==>123456-90==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.42.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:1B:E0==>ABU_NAWAF==>WPA/WPA2==>egg23452345==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.44.228:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>-:DB:DA:2D:CA:AC==>First Tech==>WPA/WPA2==>ftech@2016==>12345670==>192.168.1.1==>255.255.255.0==>
+94.98.48.166:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:0C:70==>timepaints==>WPA/WPA2==>0505222300==>12345670==>192.168.1.1==>255.255.255.0==>
+94.98.50.43:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:21:33:D6==>HASH2==>WPA/WPA2==>kannur10==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.50.227:8080==>user:passwd=>admin:76054189==>ZyNOS ADSL (TD-W8901G)==>74:EA:3A:F9:F8:42==>TP-LINK_F9F842==>WPA/WPA2==>aa123456-9==>192.168.1.1==>255.255.255.0==>94.98.50.227==>255.255.255.255==>84.235.124.6==>46.151.215.-==>
+94.98.-.107:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:73:90==>MyHome==>WPA/WPA2==>13954411==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.67.166:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:46:04==>Al Adnan==>WPA/WPA2==>Ss-26*10==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.68.127:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AF:2B:8C==>BAYONET-1==>WPA/WPA2==>42919-7==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.73.28:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:6F:C8==>Hassan86==>WPA/WPA2==>30273027==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.74.161:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:AB:44==>Aied1==>WPA/WPA2==>055-2399==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.77.213:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies ==>AboAhmed==>WPA/WPA2==>555772846==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.86.97:80==>user:passwd=>admin:admin==>DrayTek Vigor2860n+==>00:1D:AA:CB:A4:38==>Darmai 2.4G==>WPA2==><not implemented>==>192.168.1.1==>255.255.255.0==>94.98.86.97==>84.235.124.6==>84.235.6.55==>
+94.98.88.210:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:E5:9D:14==>Hesham==>WPA2==>05054250-77==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.102.119:80==>user:passwd=>admin:admin==>DrayTek Vigor2820n==>00:50:7F:E8:EF:90==>DrayTek1==>WEP==><not implemented>==>192.168.1.1==>255.255.255.0==>94.98.102.119==>84.235.124.6==>
+94.98.106.40:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:03:4E==>aziznazila==>WPA/WPA2==>321aziznazila==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.106.92:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CC:CE:00==>Badr==>WPA==>0503344-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.108.182:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:CC:7A==>StcBroadband==>WPA2==>114383872==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.112.87:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:16:84==>STC_WiFi_7E33==>WPA/WPA2==>57amPdpj==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.119.206:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:F3:B0==>Nashwan==>WPA/WPA2==>19-19-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.123.32:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:9D:70==>B-OFFICE==>WPA/WPA2==>B-office2016==>12345670==>-.16.6.1==>255.255.255.0==>
+94.98.-.65:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:50:10==>Salah2==>WPA/WPA2==>asd1234512==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.1-.42:80==>user:passwd=>admin:123456==>DVR==>
+94.98.180.143:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:42:D1:40==>fm==>WPA/WPA2==>fsfs6000==>32010022==>192.168.100.1==>255.255.255.0==>
+94.98.187.166:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:9E:4A:89==>Yami==>WPA/WPA2==>11996504==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.190.250:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:62:68==>abukhaled==>WPA/WPA2==>0505292-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.191.154:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:0D:6C==>Abu.Hamza==>WPA/WPA2==>02886803==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.196.67:80==>user:passwd=>DD-WRT (name: dd-wrt-01, model: WHR-HP-G300N)==>B0:C7:45:6B:E6:AE==>ALSAYYAR GROUP==>192.168.1.1==>94.98.196.67==>
+94.98.196.147:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:91:04==>Home==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.197.198:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8A:D4:CC==>WirelessNet==>WPA==>05048181472==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.199.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:19:17:6A==>Comtechs==>WPA/WPA2==>comtechs200XF==>12345670==>192.168.1.1==>255.255.255.0==>
+94.98.199.138:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1C:D1:5B==>S65321==>WPA2==>40103020==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.201.74:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DD:F2:00==>Usama ben laddan==>WPA/WPA2==>568326149==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.201.212:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:A0:D4==>YASSER==>WPA/WPA2==>yasser-0==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.202.22:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6F:A7:48==>HUAWEI-2.4G-gyqt==>WPA/WPA2==>ERsGDmDG==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.202.43:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:55:57:FE==>azizmt==>WPA/WPA2==>0504122-8==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.205.116:80==>user:passwd=>admin:123456==>DVR==>
+94.98.206.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:47:-==>STC_WiFi_==>WPA/WPA2==>0505877-7==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.206.131:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:87:38==>JUBAIL-ROOM==>WPA/WPA2==>dar@1234==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.212.236:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:9E:A7:3B==>STC-WIFI==>WPA/WPA2==>19589600==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.215.200:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:75:68==>STC_WiFi_6253==>WPA/WPA2==>4us8xnxv==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.217.51:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8B:F5:DE==>salah==>WPA/WPA2==>0114873184==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.219.44:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:86:7A==>Home==>WPA2==>0559661199==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.219.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:77:2F:D0==>NFC==>WPA/WPA2==>00220022==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.219.1-:80==>user:passwd=>admin:123456==>DVR==>
+94.98.220.214:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:28:F8:FD==>Bassam-Home==>WPA/WPA2==>0500305553==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.224.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>70:7B:E8:06:64:08==>SSG_Elites==>WPA2==>2011201220132014==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.226.136:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:80:14==>Meshal_Network==>WPA/WPA2==>Meshal999==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.228.252:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:10:F4==>A==>WPA/WPA2==>10001000==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.230.162:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:26:2C:05==>MUHAMMADS==>WPA/WPA2==>042212289==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.232.181:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E6:6B:E4==>ZAHOH==>WPA/WPA2==>0503885554==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.232.103:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:99:0B:-==>SALAH-7B==>WPA==>0552449922==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.233.191:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:4B:84==>Alkhamis==>WPA/WPA2==>05516--==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.233.214:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:C6:68==>STC_WiFi_5F58==>WPA/WPA2==>05999-505==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.233.204:80==>user:passwd=>admin:123456==>DVR==>
+94.98.234.229:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:10:C3:B1==>Awlad_Centera==>WPA==>omer_533929==>14303302==>192.168.100.1==>255.255.255.0==>
+94.98.239.56:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:81:BD:2C==>STC-FTTH==>WPA/WPA2==>0504821492==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.247.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:10:2C:97==>SAHOME==>WPA/WPA2==>saif5311315-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.247.214:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:85:B4:6B==>Love==>WPA/WPA2==>3333333333==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.252.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:81:FC==>Aljanedi==>WPA/WPA2==>aden1961==>12345670==>192.168.100.1==>255.255.255.0==>
+94.98.252.239:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DF:67:7E==>Abosulaiman==>WPA==>139221392213==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.10.82:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:C7:84==>SM==>WPA/WPA2==>08520852==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.22.122:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A8:81:33==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>10.10.200.1==>255.255.255.0==>
+94.99.24.171:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:A9:D2:DC==>STC_WiFi_D55A==>WPA/WPA2==>123456-9==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.31.59:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:BE:00==>TTT==>WPA/WPA2==>0552880880==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.34.91:80==>user:passwd=>? admin:aser55-00900==>micro_httpd (D-Link ADSL Router)==>
+94.99.40.58:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>[X]==>[X]==>EC:4D:47:3D:88:00==>MODEM1==>WPA/WPA2==>8MAjJ48q==>12345670==>192.168.1.1==>255.255.255.0==>
+94.99.66.130:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:AD:AC==>Asec==>WPA/WPA2==>asec1234==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.80.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:45:EC==>S.Q==>WPA/WPA2==>sa10eed0==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.81.235:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:35:F7:C0==>HAN==>WPA/WPA2==>sa197310==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.-.14:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E4:91:C0==>Mohammed==>WPA/WPA2==>back5555==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.113.217:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:E5:8D:F8==>HUAWEI-2.4G-3W6M==>WPA/WPA2==>04080301==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.114.253:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:A5:C0==>MRMR96==>WPA/WPA2==>0555658681==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.115.97:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:48:CC==>STC_WiFi_C333==>WPA/WPA2==>Uu5n45Pc==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.120.70:80==>user:passwd=>admin:admin==>BiPAC 8800NL==>
+94.99.128.192:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:6D:C4==>Qasar Al Dammam==>WPA/WPA2==>-5-5==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.131.207:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:21:60==>HUAWEI-2.4G-xCL6==>WPA/WPA2==>pQ34cjTN==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.132.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:B1:88==>Walkman007==>WPA/WPA2==>leo5102014==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.132.147:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:51:18==>AAA==>WPA/WPA2==>05694.988==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.133.73:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:48:C1:B8==>bot 2016==>WPA/WPA2==>smms123%==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.134.80:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:B4:B0==>Almarri911==>WPA/WPA2==>87654321==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.134.150:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:D1:46:CD==>Saad==>WPA/WPA2==>2266666622==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.136.160:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AD:52:70==>refreshgalz==>WPA/WPA2==>01012011==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.137.149:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>28:31:52:3A:9C:CC==>Khdmatcom==>WPA/WPA2==>8-28-2==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.137.151:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:23:B3:98==>Home Network==>WPA/WPA2==>0500--7==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.-.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:73:C4==>**unreachable**==>WPA/WPA2==>01081985==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.144.12:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>[X]==>0C:45:BA:AD:6F:44==>GREENAPPLEG==>WPA/WPA2==>Green@8o86G==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.144.120:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7B:F4:B2==>BANgL==>WPA2==>0551043383==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.144.215:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A8:7E:A9==>a7mdove==>WPA/WPA2==>0550066077==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.145.44:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:8A:B5:95==>TTT==>WPA==>0543328654==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.145.191:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:B8:41:E8==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.17.1==>255.255.255.0==>94.99.145.191==>84.235.6.17==>84.235.6.55==>
+94.99.146.195:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:56:64==>ESSAM AHMED ASHER==>WPA/WPA2==>19501950==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.146.236:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BE:4C:3C==>Alamen==>WPA/WPA2==>13551355==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.149.251:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:53:14==>STC_WiFi_0D57==>WPA/WPA2==>Bs2016Hankook==>12345670==>192.168.1.1==>255.255.255.0==>
+94.99.151.1-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AC:5E:F8==>Khalid==>WPA/WPA2==>050413-77==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.152.136:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:20:D4:CC==>azooz-2008==>WPA/WPA2==>05553322-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.154.95:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:4E:-==>HUAWEI-2.4G-8h8J==>WPA/WPA2==>6wETxYe8==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.155.35:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>-:1D:BA:43:27:0D==>Villa#1==>WPA2==>Moon&sun==>12345670==>192.168.0.9==>255.255.255.0==>
+94.99.-.21:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:A7:C1==>Jaanphi==>WPA/WPA2==>nandhi@123==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.-.103:80==>user:passwd=>support:support==>Micro DSL (" + FatoryInfoArray[1] + " | 3.41a4STC A2pB025c6)==>00:24:7E:20:5B:37==>Geberit Mobily==>WPA==>khurram1964==>192.168.1.1==>255.255.255.0==>94.99.-.103==>84.235.6.17==>95.130.13.153 8.8.8.8==>
+94.99.-.196:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:84:6B:54==>Sattam==>WPA/WPA2==>twoway45==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.-.246:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:46:19==>Baydaa==>WPA/WPA2==>Mania2015==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.158.81:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:1B:FB:30==>khalid==>WPA/WPA2==>00a00a00a==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.161.100:80==>user:passwd=>admin:admin==>Micro DSL (9-48GW-11 | 1.3.3 Build 080220 Rel.37722n)==>00:1D:0F:AA:FA:90==>al harib==>WPA==>12121212==>192.168.1.1==>255.255.255.0==>94.99.161.100==>84.235.68.245==>84.235.57.230 84.235.6.55==>
+94.99.166.81:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>7C:A2:3E:01:43:E0==>HUAWEI-2.4G-wdYy==>WPA/WPA2==>W9R4BEA5==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.1-.221:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:86:8D:A7==>GreyBeard==>WPA2==>Allahis1!==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.184.228:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>48:62:76:92:7E:29==>PL-Company==>WPA/WPA2==>11223355==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.185.244:80==>user:passwd=>admin:admin==>IP Camera==>
+94.99.189.122:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:80:0D:49==>Mansor==>WPA2==>yasir123==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.190.90:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:B9:3C==>Khalid2004==>WPA/WPA2==>0542108856==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.190.200:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7B:E1:34==>musaadnet==>WPA2==>200300400==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.192.175:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:27:DD:9E==>ASED==>WPA/WPA2==>123456-9==>12345670==>10.0.0.1==>255.255.255.0==>
+94.99.1-.81:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:17:71:96==>WirelessNet==>WPA2==>maffan76==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.1-.104:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:DE:71:02==>BLACK.LIST==>WPA/WPA2==>s0000000-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.1-.217:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:52:70==>Alamri==>WPA/WPA2==>mm123456-9==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.196.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>F8:E8:11:BB:F8:18==>Praioie25==>WPA/WPA2==>34290837==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.198.96:80==>user:passwd=>admin:123456==>DVR==>
+94.99.201.61:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E6:36:18==>NAIF==>WPA/WPA2==>05554-761aa==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.201.167:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:81:51:CA==>masdaralbedayh==>WPA/WPA2==>88575433-==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.204.64:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:24:44==>HUAWEI-2.4G-B28V==>WPA/WPA2==>Stc1122335060==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.206.204:80==>user:passwd=>admin:admin==>DrayTek Vigor==>00:1D:AA:A3:F6:00==>BILAL==>WPA/WPA2==><not implemented>==>192.168.1.1==>255.255.255.0==>---==>---==>84.235.6.55==>
+94.99.207.231:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:53:E0==>STC FIBER.==>WPA==>Qq123321123321==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.212.14:80==>user:passwd=>admin:123456==>DVR==>
+94.99.214.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:7B:EF:9E==>ABUASSAF==>WPA2==>05551-326==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.215.250:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1F:8F:-==>SIDDIQI==>WPA/WPA2==>a92911b929==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.216.175:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:87:C0==>Hammad==>WPA/WPA2==>msalam8670==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.219.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:FA:08==>Mayar==>WPA/WPA2==>0138311985==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.219.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:-:40==>STC-2.4G==>WPA/WPA2==>0504558022mg==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.220.190:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:B4:14==>Hawie==>WPA/WPA2==>Noman2870==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.222.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:5A:9F==>Nasser==>WPA/WPA2==>0535380011==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.222.241:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>90:03:25:33:B8:38==>my home==>WPA/WPA2==>22226699==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.225.115:80==>user:passwd=>admin:123456==>DVR==>
+94.99.225.148:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:99:58==>stopjeans==>WPA2==><not implemented>==>190.160.10.162==>255.255.255.0==>---==>---==>192.168.100.1==>
+94.99.226.28:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:72:3F:44==>Sky==>WPA==>20011-1==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.227.244:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:66:27:CC==>Mjood==>WPA/WPA2==>123456-9==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.228.34:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:50:-==>NASSER==>WPA/WPA2==>mnsshs987@==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.229.165:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:4B:DC==>Hadi==>WPA/WPA2==>ASF1122333==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.230.68:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:FC:21==>BKJ==>WPA/WPA2==>056430-70==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.232.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AB:8E:D8==>Yousef==>WPA/WPA2==>yousef344==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.233.190:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:6E:FF:54==>Abu Rakan==>WPA/WPA2==>al0555900744==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.237.1-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:1F:E7:1D==>talal==>WPA2==>talal1982==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.239.219:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:CA:-==>HOME001==>WPA/WPA2==>0138354192==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.241.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>70:7B:E8:08:BA:C4==>osamh==>WPA/WPA2==>-5-5==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.241.171:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:BA:87:50==>DCS_Riyadh==>WPA2==><not implemented>==>192.168.2.1==>255.255.255.0==>94.99.241.171==>84.235.6.17==>84.235.6.55==>
+94.99.243.238:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:60:80==>amj==>WPA/WPA2==>0542666695==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.243.237:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>48:AD:08:23:58:98==>Zomorrod==>WPA/WPA2==>0505926675==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.244.218:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:B1:6C:27:5E:CC==>dalghamdy==>WPA==>1Dreemagh==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.249.174:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:68:E9==>gulfman==>WPA/WPA2==>28282828==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.251.199:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:D5:75:7C==>yousef==>WPA/WPA2==>05562-827==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.252.71:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:CB:68:58==>NET==>WPA/WPA2==>05513-625==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.252.60:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:C9:01:60==>Abo_Talal==>WPA/WPA2==>0988-415==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.252.173:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:BD:EE:A8==>Ahmed==>WPA/WPA2==>053-0538==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.252.224:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:-:F5:E8==>TARIQ==>WPA/WPA2==>050191-91==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.253.157:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>7C:1C:F1:CC:F2:A8==>Abdulmajed==>WPA/WPA2==>050624-4==>12345670==>192.168.100.1==>255.255.255.0==>
+94.99.255.191:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>24:BC:F8:DF:1A:6C==>Abo walid==>WPA/WPA2==>11114444==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.9.52:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A2:2F:DF==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.10.0:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:4C:D2==>Zafar==>WPA/WPA2==>0507368331==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.13.224:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:25:84==>Othman==>WPA/WPA2==>Uthman88h==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.19.105:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:29:B0==>Abu-Adil2.4G==>WPA/WPA2==>33333489==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.22.13:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D2:29:DC==>wahab==>WPA/WPA2==>arar2735==>52-4889==>192.168.100.1==>255.255.255.0==>
+95.218.26.201:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AF:1D:F0==>Wireless NET==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.30.33:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:3E:5C==>SAHAL==>WPA/WPA2==>0596066000==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.33.20:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:1D:F0==>Khalid==>WPA/WPA2==>1376ksa1==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.33.243:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A6:29:D9==>sayer2004==>WPA/WPA2==>0505901-3==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.34.225:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:B9:06==>RASHID==>WPA/WPA2==>0504822761==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.39.231:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:AD:E4:-==>MOHAMMAD==>WPA/WPA2==>0547702929==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.43.149:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:D1:83:A4==>JANAT==>WPA/WPA2==>1122334455==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.45.155:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:8C:BC:B5==>Majed123==>WPA/WPA2==>Majed1890==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.47.9:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DD:DC:F4==>mshari==>WPA/WPA2==>aleen1431==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.51.17:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>C0:70:09:45:AD:BD==>alhajri==>WPA2==>0504997-1==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.52.89:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:20:C9:14==>mouid==>WPA/WPA2==>00610061==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.53.23:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E4:B4:55==>FOkola==>WPA/WPA2==>02200220==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.58.60:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:3A:0C==>STC==>WPA/WPA2==>ABOMALEK==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.65.6:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:18:EB:-==>Se_ALGhamdi==>WPA/WPA2==>69199001==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.68.4:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:89:9A:BD==>Hatemsameer==>WPA2==>054-6210==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.68.-:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:AB:B4==>Ali==>WPA/WPA2==>054401-30==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.71.106:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DE:10:F0==>Aelufe==>WPA/WPA2==>1234500000==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.73.99:8080==>user:passwd=>admin:30895162==>ZyNOS ADSL (TD-W8901G)==>[X]==>74:EA:3A:F9:F6:4D==>TP-LINK_F9F64D==>WPA/WPA2==>aa123456==>192.168.1.1==>255.255.255.0==>95.218.73.99==>255.255.255.255==>95.218.0.1==>46.151.215.-==>
+95.218.78.78:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A2:09:C9==>Zahra==>WPA/WPA2==>0558262970==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.82.23:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>44:55:B1:E5:3D:2B==>Nasser==>WPA/WPA2==>Nasser19-==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.87.-:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:50:A6==>ALI-NET15==>WPA==>chevron66==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.87.190:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>9C:37:F4:72:BD:54==>muhmmad==>WPA/WPA2==>11111111==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.88.145:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:8F:F8==>mustanda==>WPA2==><not implemented>==>192.168.1.1==>255.255.255.0==>95.218.88.145==>95.218.0.1==>84.235.6.55==>
+95.218.92.220:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:A9:64:5C==>MosaabS==>WPA/WPA2==>05982720299==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.96.20:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>0C:45:BA:24:56:7C==>AlJar==>WPA/WPA2==>0505851772==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.96.129:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:19:07:8B==>zaid==>WPA/WPA2==>20102010==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.99.195:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:B5:D5:A8==>hamodi==>WPA==>2111996r==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.105.1-:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:C0:42:50==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.8.1==>255.255.255.0==>95.218.105.1-==>95.218.0.1==>84.235.6.55==>
+95.218.106.142:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:AD:9B:10==>STC==>WPA/WPA2==>0559290143==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.107.252:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>74:A0:-:A6:1B:8D==>WirelessNet==>WPA/WPA2==>eeeeeeee==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.113.218:80==>user:passwd=>admin:admin==>DrayTek Vigor==>00:1D:AA:E5:F8:70==>AL-BAIDAQ==>WPA/WPA2==><not implemented>==>192.168.10.1==>255.255.255.0==>95.218.113.218==>95.218.0.1==>84.235.6.55==>
+95.218.122.220:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:9E:46:51==>ABU_RASHID==>WPA/WPA2==>1024274-6==>71499147==>192.168.100.1==>255.255.255.0==>
+95.218.123.190:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:5C:4C==>Khaled==>WPA/WPA2==>05505084-==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.126.187:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:02:FC==>moh==>WPA/WPA2==>405060Lab==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.127.215:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>68:A8:28:61:C8:9C==>ALQURASHI==>WPA/WPA2==>05-3312855==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.129.231:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:E5:BD:4C==>Albakami22==>WPA/WPA2==>105119-5==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.138.211:80==>user:passwd=>admin:admin==>DrayTek Vigor==>00:1D:AA:E7:A7:10==>GTE-WiFi==>WPA/WPA2==><not implemented>==>192.168.3.253==>255.255.255.0==>95.218.138.211==>95.218.128.1==>84.235.6.55==>
+95.218.-.238:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:10:1D:6F==>FAROOQUI==>WPA/WPA2==>27201977==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.150.228:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:AC:88==>Al azabi==>WPA/WPA2==>10768315==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.-.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:24:57:E2==>DOSSARY==>WPA2==>8648925a==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.157.199:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:24:1B:CF==>amiel==>WPA/WPA2==>amiel2005==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.166.75:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:-:DA:6A==>ruishidwifi==>WPA/WPA2==>12344321==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.178.250:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:AD:8E:90==>nasser==>WPA/WPA2==>0555900416==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.187.130:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:13:80:0A==>AlReshaidan==>WPA==>0505901890==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.188.110:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:B7:0E:C8==>HARPY==>WPA/WPA2==>Joy118899==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.197.255:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:98:FB:75==>home==>WPA/WPA2==>11121314==>3575024==>192.168.100.1==>255.255.255.0==>
+95.218.201.1:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:10:6B:F3==>Essa==>WPA/WPA2==>0503818050==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.201.164:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:-:24==>H==>WPA/WPA2==>hs123456==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.212.204:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:44:F0==>Abu_Abdullah==>WPA/WPA2==>Rr123123==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.224.182:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:90:D0==>SALEH==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.226.80:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:33:F0==>WirelessNet==>WPA/WPA2==>20806020==>673211==>192.168.100.1==>255.255.255.0==>
+95.218.228.151:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:D9:D4==>tamer==>WPA/WPA2==>zz1234567==>12345670==>192.168.100.1==>255.255.255.0==>
+95.218.249.102:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:1B:EF:00==>Naif==>WPA==>035661747==>10-040==>192.168.100.1==>255.255.255.0==>
+95.219.4.241:80==>user:passwd=>admin:<empty>==>MikroTik RouterOS v6.35.2==>E4:8D:8C:ED:EB:21==>Office SSAT==>192.168.1.2==>255.255.255.0==>192.168.1.2==>255.255.255.0==>192.168.1.1==>8.8.8.8 8.8.4.4==>
+95.219.5.87:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:37:9C==>Hamad==>WPA/WPA2==>0566-333==>682619==>192.168.100.1==>255.255.255.0==>
+95.219.13.187:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:-:22==>Net==>WPA/WPA2==>0505906402==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.16.148:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:70:E6:68==>7mood==>WPA/WPA2==>YMHFJ1DTBTB==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.18.168:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>D4:F9:A1:9A:28:84==>Rakkah==>WPA/WPA2==>aramex3607==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.21.139:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>D8:49:0B:-:D1:82==>wahid==>WPA/WPA2==>05006440905==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.22.186:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:EC:B9:48==>Sobhan Allah ==>WPA/WPA2==>ba-391==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.25.166:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>4C:1F:CC:87:3A:81==>Nawaf==>WPA/WPA2==>20012001==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.37.136:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>E4:68:A3:24:07:A7==>Saleh==>WPA/WPA2==>13801380==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.50.98:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>AC:4E:91:32:E6:EC==>Sultan==>WPA/WPA2==>1396-9==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.54.162:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:07:6A:-==>STC_WiFi_705A==>WPA/WPA2==>0555341334==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.72.87:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>80:38:BC:71:5A:90==>bader==>WPA/WPA2==>0544511199==>10-040==>192.168.100.1==>255.255.255.0==>
+95.219.90.94:80==>user:passwd=>admin:<empty>==>D-Link DIR-130, firmware: 1.23==>-==><no wireless>==>-==>-==>192.168.20.1==>255.255.255.0==>95.219.90.-==>255.255.255.255==>95.219.0.1==>84.235.6.55 84.235.57.230==>
+95.219.95.9:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:A0:E3:5D==>H.M.B==>WPA/WPA2==>hatmbaslmahr==>8756220==>192.168.100.1==>255.255.255.0==>
+95.219.95.200:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DB:20:48==>Brotherhood==>WPA/WPA2==>fortheboys==>12345670==>192.168.100.1==>255.255.255.0==>
+95.219.98.97:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:BF:30:90==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.14.1==>255.255.255.0==>95.219.98.97==>95.219.0.1==>84.235.6.55==>
+95.219.114.238:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>2C:AB:00:76:DD:68==>Sultan==>WPA/WPA2==>0505221238==>12345670==>192.168.100.1==>255.255.255.0==>
+128.204.240.15:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 131129 Rel.49672)==>E8:-:F6:47:2D:3D==>ITC-121==>WPA2==>44302981==>16056503==>192.168.1.1==>255.255.255.0==>128.204.240.15==>255.255.255.255==>128.204.240.126==>
+128.204.240.-:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:4F:73:5B==>H-9-111==>WPA2==>nore0705==>16589247==>192.168.1.1==>255.255.255.0==>128.204.240.-==>255.255.255.255==>128.204.240.126==>
+128.204.240.105:80==>user:passwd=>admin:admin==>Micro DSL (TD-W8960N V5 | 1.1.1 Build 14-7 Rel.34856)==>C4:E9:84:45:DC:85==>itc shincy==>WPA2==>05-4512-==>20969820==>192.168.1.1==>255.255.255.0==>128.204.240.105==>255.255.255.255==>128.204.240.126==>
+128.204.241.48:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>00:46:4B:BA:7F:83==>Test==>WPA/WPA2==>11223344==>12345670==>192.168.100.1==>255.255.255.0==>128.204.241.48==>255.255.255.255==>87.101.237.50 87.101.238.5==>
+128.204.241.196:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>54:89:98:0A:E3:1C==>ATHER_ITC==>WPA2==>ather123456-9==>12345670==>192.168.1.1==>255.255.255.0==>
+128.204.245.209:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:77:B7==>F119==>WPA/WPA2==>96755906==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+128.204.246.143:80==>user:passwd=>admin:admin==>ZTE F660, hardware: 2.0, firmware: 2.20.20P3T1S==>34:E0:CF:A8:-:B0==>Villa-F106==>WPA/WPA2==>47074171==>192.168.1.1==>255.255.255.0==>255.255.255.255==>
+128.234.5.249:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DA:E2:CC==>Mohammed==>WPA/WPA2==>0557717414Mm==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.30.143:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:CA:88==>muath10==>WPA/WPA2==>ss123456==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.55.12:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:53:9C==>Saud11==>WPA/WPA2==>0505151628==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.55.14:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:09:70==>alsalhani==>WPA2==>77794.99==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.71.221:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:3D:0A:5C==>abomustafa==>WPA/WPA2==>abumostafa1984==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.99.219:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:B6:D0==>Sharabi==>WPA/WPA2==>19601960==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.120.0:80==>user:passwd=>ASUS DSL-AC68U, firmware: 2.0==>30:5A:3A:CD:6C:B0==>Mshari 2.4==>192.168.1.1==>255.255.255.0==>
+128.234.120.0:8080==>user:passwd=>ASUS DSL-AC68U, firmware: 2.0==>30:5A:3A:CD:6C:B0==>Mshari 2.4==>192.168.1.1==>255.255.255.0==>
+128.234.122.21:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F3:0B:D0==>FTTH==>WPA/WPA2==>050860321==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.143.247:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DD:E8:F8==>Assomi==>WPA/WPA2==>hamza0505==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.158.7:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:69:4B:F8==>STC==>WPA2==>Kdhma1154==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.158.210:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>04:BD:70:DC:2C:A0==>STC_WiFi_9-3==>WPA/WPA2==>987654321==>12345670==>192.168.100.1==>255.255.255.0==>
+128.234.228.80:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:41:38==>HUAWEI-2.4G-xKSA==>WPA/WPA2==>phnBUU2c==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.3.245:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245T==>B4:15:13:BE:57:A4==>BB:5409F5F3==>WPA/WPA2==>0500009501==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.18.89:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:ED:4D:70==>RDAN==>WPA/WPA2==>-7-7==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.22.113:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:AA:00==>d7om==>WPA/WPA2==>88889999==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.32.16:80==>user:passwd=>telecomadmin:admintelecom==>Modem Router Huawei Technologies HG8245Q==>EC:4D:47:68:65:98==>medooo==>WPA/WPA2==>05541887-==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.52.91:80==>user:passwd=>admin:admin==>DrayTek Vigor2830n==>00:1D:AA:CA:90:08==>DrayTek==>WPA/WPA2==><not implemented>==>192.168.0.254==>255.255.255.0==>129.208.52.91==>84.235.127.17==>84.235.57.230==>
+129.208.79.99:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>FC:E3:3C:F2:D0:D8==>Abu Mohammed ==>WPA/WPA2==>0503148730==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.90.205:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>88:CF:98:85:03:44==>Ahmed==>WPA/WPA2==>19712255==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.131.145:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245Q==>BC:9C:31:AE:48:50==>JOOOJ==>WPA/WPA2==>jjj819800==>12345670==>192.168.100.1==>255.255.255.0==>
+129.208.131.204:80==>user:passwd=>root:admin==>Modem Router Huawei Technologies HG8245==>70:7B:E8:07:FC:F5==>ALKADAR==>WPA/WPA2==>0505189143==>12345670==>192.168.100.1==>255.255.255.0==>
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The first mark just say
+Please do extend your feet out of your carpet
+We do not, because Not wanting
+I do, because we want
+If you do not stretch your feet from carpet
+Or threats against the Islamic Republic, 
+Do not threaten or a person of this land; we will do nothing for you there. 
+Broadcast content will be interesting
+And in his time	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+واسه اول کار فقط بگيم
+لطفا پا از گليم خودتان درازتر نکنيد
+ما انجام نداديم,چون نخواستيم
+الان انجام ميدهيم,چون ميخواهيم
+اما دفعه ديگر اگر پا از گليم خود درازتر کنيد و  يا تهديد عليه نظام جمهوري اسلامي ايران کنيد,يا يک شخص از اين خاک را تهديد نماييد؛کاري خواهيم کرد که ديگر چيزي از شما وجود نداشته باشد.
+مطالب جالبي را پخش خواهيم نمود.هر چيز به موقعش
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
